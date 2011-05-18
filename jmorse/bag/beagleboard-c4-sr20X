@@ -1,0 +1,17 @@
+assetcode : 20X
+labelled  : true  # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Revision C4 beagleboard
+
+purchasing_ticket : 536       # The trac ticket number of the purchase request
+value             : 85.00     # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+
+# tested            : false     # Has the asset been tested
+# cased             : false     # Has the asset been put into a case
+
+# photos:
+#    - http://www.example.com/photo1.jpeg
+#    - http://www.example.com/photo2.jpeg
