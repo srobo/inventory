@@ -11,6 +11,7 @@ condition         : unknown   # One of {unknown, working, broken}
 
 tested            : false     # Has the asset been tested
 cased             : false     # Has the asset been put into a case
+climit_disabled   : false     # Has the current limit been disabled
 
 photos:
    - http://www.flickr.com/photos/rspanton/5406066865/
