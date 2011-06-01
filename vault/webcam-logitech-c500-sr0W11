@@ -5,7 +5,7 @@ revision  : 0
 description: >
     A Logitech C500 1.3 Megapixel USB webcam with detachable base.
 
-purchasing_ticket : 0         # The trac ticket number of the purchase request
+purchasing_ticket : 535       # The trac ticket number of the purchase request
 value             : 20.00     # A rough estimate of the value of the asset
 condition         : unknown   # One of {unknown, working, broken}
 
