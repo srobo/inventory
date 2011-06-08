@@ -1,0 +1,12 @@
+assetcode : 1R13
+labelled  : true
+revision  : 0
+
+description: >
+    A 4-way extension lead with a 3m cable.
+    Farnell #5078234
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 2.00      # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+pat-test-expiry   : YYYY-MM-DD # Date PAT testing is required again

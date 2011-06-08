@@ -1,5 +1,5 @@
-assetcode : [ASSET_CODE]
-labelled  : false   # Does the asset have its assetcode marked on it
+assetcode : 1X1X
+labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
