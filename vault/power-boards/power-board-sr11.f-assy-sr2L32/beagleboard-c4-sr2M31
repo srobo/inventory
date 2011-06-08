@@ -1,5 +1,5 @@
 assetcode : 2M31
-labelled  : false   # Does the asset have its assetcode marked on it
+labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
@@ -9,7 +9,7 @@ purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 85.00     # A rough estimate of the value of the asset
 condition         : unknown   # One of {unknown, working, broken}
 
-has_headers       :  false    # Does the beagleboard have the expansion/LCD headers soldered on
+has_headers       :  true    # Does the beagleboard have the expansion/LCD headers soldered on
 
 # tested            : false     # Has the asset been tested
 # cased             : false     # Has the asset been put into a case
