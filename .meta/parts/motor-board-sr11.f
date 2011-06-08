@@ -10,7 +10,6 @@ value             : 28.00     # A rough estimate of the value of the asset
 condition         : unknown   # One of {unknown, working, broken}
 
 tested            : false     # Has the asset been tested
-cased             : false     # Has the asset been put into a case
 climit_disabled   : false     # Has the current limit been disabled
 
 photos:
