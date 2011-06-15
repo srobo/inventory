@@ -1,0 +1,11 @@
+assetcode : [ASSET_CODE]
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A small multimeter with integral probes that wrap around the casing.
+    Has audiable continuity test.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 10.00     # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
