@@ -1,0 +1,11 @@
+assetcode : 2L7T
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A small multimeter with integral probes that wrap around the casing.
+    Has audiable continuity test. (Think it's got a flat battery)
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 10.00     # A rough estimate of the value of the asset
+condition         : broken    # One of {unknown, working, broken}
