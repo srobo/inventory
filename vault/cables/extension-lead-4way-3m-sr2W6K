@@ -1,17 +1,13 @@
 assetcode : 2W6K
-labelled  : false   # Does the asset have its assetcode marked on it
+labelled  : true    # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
-    A short description of the asset
+    A 4-way extension lead with a 3m cable.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
-value             : 0.00      # A rough estimate of the value of the asset
+value             : 2.00      # A rough estimate of the value of the asset
 condition         : unknown   # One of {unknown, working, broken}
-
-# tested            : false     # Has the asset been tested
-# cased             : false     # Has the asset been put into a case
-
-# photos:
-#    - http://www.example.com/photo1.jpeg
-#    - http://www.example.com/photo2.jpeg
+pat-test-expiry   : YYYY-MM-DD # Date PAT testing is required again
+supplier          : farnell
+part_number       : 5078234
