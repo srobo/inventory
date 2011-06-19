@@ -1,0 +1,13 @@
+assetcode : 2V5N
+labelled  : true    # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A 2-way extension lead with a 25m cable on a reel.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 21.00     # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+pat-test-expiry   : YYYY-MM-DD # Date PAT testing is required again
+supplier          : farnell
+part_number       : 3073567
