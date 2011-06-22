@@ -1,0 +1,15 @@
+assetcode : 2HEF
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Kingston DataTraveler G2 2GB USB memory stick. White with a grey bumper.
+    Has a retractable USB plug.
+    Placed in broken basket during SR2011, taped to usb hub, tape labelled with
+    "Fail". No indication as to what fail was. assume broken.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 6.00      # A rough estimate of the value of the asset
+condition         : broken   # One of {unknown, working, broken}
+
+tested            : false     # Has the asset been tested
