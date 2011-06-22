@@ -1,0 +1,12 @@
+assetcode : 2XD4
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    PSP LCD display from SR2011 power board assembly
+    Power board assembly put in "Broken" basket during SR2011. No indication of
+    which part was broken, assume all broken.
+
+purchasing_ticket : 593       # The trac ticket number of the purchase request
+value             : 12.00     # A rough estimate of the value of the asset
+condition         : broken   # One of {unknown, working, broken}
