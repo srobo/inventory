@@ -1,0 +1,13 @@
+assetcode : 2JDG
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A SR11.F servo board.
+    Was placed in "broken" basket during SR2011 - no label as to why it failed.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 30.00     # A rough estimate of the value of the asset
+condition         : broken   # One of {unknown, working, broken}
+
+tested            : false     # Has the asset been tested
