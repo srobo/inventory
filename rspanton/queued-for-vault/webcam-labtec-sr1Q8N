@@ -1,5 +1,5 @@
 assetcode : 1Q8N
-labelled  : false   # Does the asset have its assetcode marked on it
+labelled  : true
 revision  : 0
 
 description: >
