@@ -1,0 +1,17 @@
+assetcode : 1M8R
+labelled  : true
+revision  : 0
+
+description: >
+    A Linksys NSLU2.  Also known as a "slug".
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 60.00     # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+
+# tested            : false   # Has the asset been tested
+umbilical  	  : false     # Has the slug been fitted with an umbilical
+
+# photos:
+#    - http://www.example.com/photo1.jpeg
+#    - http://www.example.com/photo2.jpeg
