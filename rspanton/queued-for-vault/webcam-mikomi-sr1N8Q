@@ -1,0 +1,15 @@
+assetcode : 1N8Q
+labelled  : true
+revision  : 0
+
+description: >
+    A "Mikomi" webcam.  Used in kits before SR2011.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 5.00      # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+
+tested            : false     # Has the asset been tested
+
+photos:
+    - http://www.comparestoreprices.co.uk/images/mi/mikomi-7mp-webcam.jpg
