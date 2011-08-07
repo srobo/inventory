@@ -1,0 +1,11 @@
+assetcode : 1K8U
+labelled  : true
+revision  : 0
+
+description: >
+    A 205 x 200 x 260 mm box of old SR boards.
+    May also contain some old cases.
+    Weighs 2.5kg
+
+value             : 0.00
+condition         : unknown   # One of {unknown, working, broken}
