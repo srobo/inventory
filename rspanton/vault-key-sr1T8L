@@ -1,0 +1,10 @@
+assetcode : 1T8L
+labelled  : true
+revision  : 0
+
+description: >
+    The key to the vault.
+
+value             : 0
+condition         : working
+tested            : true
