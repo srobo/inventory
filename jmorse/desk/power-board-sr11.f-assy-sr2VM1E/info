@@ -1,0 +1,11 @@
+assetcode : 2VM1E
+revision  : 0
+
+description: >
+    Power board assembly
+
+elements:
+    - power-board-sr11.f
+    - power-board-sr11.f-case
+    - beagleboard-c4
+    - lcd-display
