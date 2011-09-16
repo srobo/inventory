@@ -1,0 +1,12 @@
+assetcode : 1YP17
+labelled  : true
+revision  : 0
+
+description: >
+    Revision C3 beagleboard
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 85.00     # A rough estimate of the value of the asset
+condition         : working
+
+has_headers       :  true

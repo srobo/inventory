@@ -1,0 +1,13 @@
+assetcode : 1WP1B
+labelled  : true
+revision  : 0
+
+description: >
+    SR2011 Power board
+    Marked as broken because it lacks current sense amplifier. 
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 70.00     # A rough estimate of the value of the asset
+condition         : broken
+
+tvs-mod-698       : true      # Has TVS diode mod 698 been applied?

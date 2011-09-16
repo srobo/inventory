@@ -1,0 +1,11 @@
+assetcode : 1VP1D
+revision  : 0
+
+description: >
+    Power board assembly
+
+elements:
+    - power-board-sr11.f
+    - power-board-sr11.f-case
+    - beagleboard-c3
+    - lcd-display
