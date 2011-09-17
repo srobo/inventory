@@ -1,13 +1,15 @@
 assetcode : 2VK1G
 labelled  : true   # Does the asset have its assetcode marked on it
-revision  : 0
+revision  : 1
 
 description: >
   A 4-port Akasa Connect USB hub.
   As distributed in the SR2011 kit.
+  One broken port.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 9.38      # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken    # One of {unknown, working, broken}
 
-tested            : false     # Has the asset been tested
+tested            : true      # Has the asset been tested
+
