@@ -4,7 +4,8 @@ revision  : 0
 
 description: >
     A case for an SR11.F jointio board.
+    Slightly discoloured due to board inside catching fire
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 14.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
