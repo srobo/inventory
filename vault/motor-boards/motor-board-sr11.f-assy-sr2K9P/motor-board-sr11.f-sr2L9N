@@ -10,7 +10,7 @@ value             : 28.00     # A rough estimate of the value of the asset
 condition         : unknown   # One of {unknown, working, broken}
 
 tested            : false     # Has the asset been tested
-climit_disabled   : false     # Has the current limit been disabled
+climit_disabled   : true     # Has the current limit been disabled
 
 photos:
    - http://www.flickr.com/photos/rspanton/5406066865/
