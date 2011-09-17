@@ -1,0 +1,18 @@
+assetcode : 1TQ1G
+labelled  : false
+revision  : 0
+
+description: >
+    A SR11.F motor board.
+    Marked as broken because it's still in its antistatic bag, which has
+    a white cross marked on it.
+    Bag labelled, but board not.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 28.00     # A rough estimate of the value of the asset
+condition         : broken
+tested            : false     # Has the asset been tested
+climit_disabled   : false     # Has the current limit been disabled
+
+photos:
+   - http://www.flickr.com/photos/rspanton/5406066865/
