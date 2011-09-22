@@ -4,10 +4,7 @@ revision  : 0
 
 description: >
     PSP LCD display from SR2011 power board assembly
-    This is presumed broken - it's tape + paperd up so must have been used
-    in development, and is in a box with no padding. However, it was not
-    _labeled_ as broken, and nothing is physicall wrong.
 
 purchasing_ticket : 593       # The trac ticket number of the purchase request
 value             : 12.00     # A rough estimate of the value of the asset
-condition         : broken   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
