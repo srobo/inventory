@@ -1,6 +1,6 @@
 assetcode : 3T1X
 labelled  : true   # Does the asset have its assetcode marked on it
-revision  : 0
+revision  : 1
 
 description: >
     A SR11.F motor board.
