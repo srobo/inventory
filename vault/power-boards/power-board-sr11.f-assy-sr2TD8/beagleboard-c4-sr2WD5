@@ -4,12 +4,12 @@ revision  : 0
 
 description: >
     Revision C4 beagleboard
-    Power board assembly put in "Broken" basket during SR2011. No indication of
-    which part was broken, assume all broken.
+    Allegedly had a problem during SR2011 whereby the webcam video was not
+    displayed on the LCD; no problem discovered during testing for SR2012.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 85.00     # A rough estimate of the value of the asset
-condition         : broken   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
 
 has_headers       :  true    # Does the beagleboard have the expansion/LCD headers soldered on
 

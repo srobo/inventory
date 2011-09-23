@@ -1,0 +1,12 @@
+assetcode : 2XD4
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    PSP LCD display from SR2011 power board assembly
+    Allegedly had a problem during SR2011 whereby the webcam video was not 
+    displayed on the LCD; no problem discovered during testing for SR2012.
+
+purchasing_ticket : 593       # The trac ticket number of the purchase request
+value             : 12.00     # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
