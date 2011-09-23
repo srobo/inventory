@@ -1,0 +1,11 @@
+assetcode : 9G1V
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A compartmented box that's used for shipping the mech kit parts.
+    Farnell #3861909
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 1.86      # Price from farnell, retrieved 2011-09-24
+condition         : working   # One of {unknown, working, broken}
