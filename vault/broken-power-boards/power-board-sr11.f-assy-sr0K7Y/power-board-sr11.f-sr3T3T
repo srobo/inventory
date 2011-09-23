@@ -5,7 +5,7 @@ revision  : 0
 description: >
     SR2011 Power board
     L100 and D100 were loose in the bag from BitBox. These were reattached.
-	Apparently the LCD BL voltage is incorrect.
+    Apparently the LCD BL voltage is incorrect.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
