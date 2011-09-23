@@ -1,6 +1,6 @@
 assetcode : 2MF9
 labelled  : false   # Does the asset have its assetcode marked on it
-revision  : 0
+revision  : 1
 
 description: >
     Revision C4 beagleboard
