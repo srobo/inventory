@@ -4,11 +4,11 @@ revision  : 0
 
 description: >
     SR2011 Power board
-    L100 and D100 were loose in the bag from BitBox. These were reattached.
-    Apparently the LCD BL voltage is incorrect.
+    Nothing displays on the LCD. A 5V pad had been lifted from one of the LCD
+    headers so it could be some signal lines are the same.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
 tvs-mod-698       : true      # Has TVS diode mod 698 been applied?
