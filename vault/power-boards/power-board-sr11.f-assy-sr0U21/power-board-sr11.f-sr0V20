@@ -1,6 +1,6 @@
 assetcode : 0V20
 labelled  : true    # Does the asset have its assetcode marked on it
-revision  : 0
+revision  : 1
 
 description: >
     SR2011 Power board. R315 is missing due to it over-heating and falling off.
