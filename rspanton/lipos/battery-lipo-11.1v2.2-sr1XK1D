@@ -11,7 +11,10 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
+  This battery was received from the supplier with a munged deans
+  connector.  It needs replacing.
+
 purchasing_ticket : 856
 value             : 11.23
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken
 tested            : false
