@@ -11,5 +11,4 @@ condition         : broken   # One of {unknown, working, broken}
 
 has_headers       :  true    # Does the beagleboard have the expansion/LCD headers soldered on
 
-# tested            : false     # Has the asset been tested
 # cased             : false     # Has the asset been put into a case

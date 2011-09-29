@@ -13,5 +13,4 @@ description: >
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 12.80     # A rough estimate of the value of the asset
 condition         : unknown   # One of {unknown, working, broken}
-tested            : false     # Has the asset been tested
 

@@ -9,7 +9,6 @@ purchasing_ticket : 535       # The trac ticket number of the purchase request
 value             : 20.00     # A rough estimate of the value of the asset
 condition         : working   # One of {unknown, working, broken}
 
-tested            : true     # Has the asset been tested
 
 photos:
     - http://www.flickr.com/photos/rspanton/4979645082/

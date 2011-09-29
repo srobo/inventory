@@ -10,4 +10,3 @@ purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 9.38      # A rough estimate of the value of the asset
 condition         : working   # One of {unknown, working, broken}
 
-tested            : true     # Has the asset been tested
