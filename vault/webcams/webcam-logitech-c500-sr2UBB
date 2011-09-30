@@ -4,8 +4,6 @@ revision  : 0
 
 description: >
     A Logitech C500 1.3 Megapixel USB webcam with detachable base.
-    Was alleged to have been broken in SR2011 (and was put in the broken
-    basket) - however I've tested it and nothing's broken.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 20.00     # A rough estimate of the value of the asset
