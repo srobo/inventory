@@ -11,6 +11,8 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
+  One of the cells will not reach full voltage, even after hours of charging.
+
 purchasing_ticket : 856
 value             : 11.23
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken
