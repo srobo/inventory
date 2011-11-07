@@ -6,4 +6,5 @@ description: >
     A truly godawful keyboard, to be typed upon by keyboard cat
 
 condition         : working   # One of {unknown, working, broken}
+value             : 0
 
