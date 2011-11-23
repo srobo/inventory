@@ -3,6 +3,7 @@ revision  : 0
 
 description: >
     Power board assembly
+    fuse on this board was just blown, going to be replaced
 
 elements:
     - power-board-sr11.f
