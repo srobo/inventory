@@ -5,6 +5,7 @@ revision  : 0
 description: >
     SR2011 Power board
     This power board has stopped powering on.
+    This board has the SR2011 firmware on it.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
