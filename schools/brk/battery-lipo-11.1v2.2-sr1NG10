@@ -11,6 +11,8 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
+  Has discharged below a voltage that the charger will charge.
+
 purchasing_ticket : 856
 value             : 11.23
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken
