@@ -11,6 +11,10 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
+  The middle cell is open-circuit. AFAIK it was always broken.
+  Unlike all of the other batteries the foam visible at each end
+  is white, not dark green.
+
 purchasing_ticket : 856
 value             : 11.23
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
