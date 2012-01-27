@@ -11,10 +11,10 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
-  The middle cell is open-circuit. AFAIK it was always broken.
-  Unlike all of the other batteries the foam visible at each end
-  is white, not dark green.
+  It had an un-soldered tab on the middle cell. I've fixed this but
+  the battery is now missing its black shrink-wrap sleeve. This battery
+  should never be shipped to schools.
 
 purchasing_ticket : 856
 value             : 11.23
-condition         : broken   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
