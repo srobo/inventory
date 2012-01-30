@@ -3,7 +3,6 @@ revision  : 0
 
 description: >
     A motor board assembly.
-    This specific assembly is possibly broken. It was observed whilst at CLF that if this board was wired up, the power board fuse would blow.
 
 elements:
     - motor-board-sr11.f
