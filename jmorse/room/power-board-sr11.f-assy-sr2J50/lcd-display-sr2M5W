@@ -4,7 +4,8 @@ revision  : 0
 
 description: >
     PSP LCD display from SR2011 power board assembly
+    If one moves the display around, it displays horror.
 
 purchasing_ticket : 593       # The trac ticket number of the purchase request
 value             : 12.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken
