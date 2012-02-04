@@ -1,9 +1,12 @@
 assetcode : 3G34
-labelled  : false   # Does the asset have its assetcode marked on it
+labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 1
 
 description: >
     A SR11.F servo board.
+    This board has been flashed with 311be6486649eccef9cf440b580d8ec1c6ec0e0c (fw v1)
+    at the request of MFG. It doesn't send a control signal to the servos until set
+    in the user code.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 30.00     # A rough estimate of the value of the asset
