@@ -11,6 +11,9 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
+  Been over-discharged, measures 3.9V
+  Probably left connected to a switched-off power board after being fully discharged.
+
 purchasing_ticket : 856
 value             : 11.23
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
