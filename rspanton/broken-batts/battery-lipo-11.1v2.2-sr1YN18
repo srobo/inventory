@@ -1,4 +1,4 @@
-assetcode : 1HG1A
+assetcode : 1YN18
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -11,6 +11,9 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
+  Broken because one of the cells measures way too low.
+  Internal soldering was inspected, but turned out to be fine.
+
 purchasing_ticket : 856
 value             : 11.23
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken
