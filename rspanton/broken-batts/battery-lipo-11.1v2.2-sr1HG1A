@@ -11,6 +11,8 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
+  Broken because it measures 5.25V
+
 purchasing_ticket : 856
 value             : 11.23
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken
