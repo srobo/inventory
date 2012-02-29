@@ -1,0 +1,13 @@
+assetcode : 3U7H
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    An adapter for communicating with an Xbee module using a mini USB cable.
+
+    Has the same features as this:
+    http://www.sparkfun.com/products/8687
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 16.02
+condition         : working

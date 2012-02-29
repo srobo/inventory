@@ -1,0 +1,10 @@
+assetcode : 3Q7L
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    An xbee series 1 module, with whip antenna.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 16
+condition         : unknown   # One of {unknown, working, broken}
