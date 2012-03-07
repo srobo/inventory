@@ -1,0 +1,14 @@
+assetcode : 0P8R
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Power board assembly case, produced from an unknown revision.
+    This was one of the ones originally made from the wrong design.
+    I've manually modified it to work.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 15.00     # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+
+dremel-mod        : true      # Has this case received the host-usb dremel mod
