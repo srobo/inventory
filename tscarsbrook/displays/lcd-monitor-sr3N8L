@@ -1,0 +1,13 @@
+assetcode : 3N8L
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    22" LCD monitor for use with the arena displays
+    One pixel appears blackend, potentially dirt under the screen (towards
+    top left)
+    Assetcode on a postit
+
+purchasing_ticket : 1134      # The trac ticket number of the purchase request
+value             : 98.11     # A rough estimate of the value of the asset
+condition         : broken    # One of {unknown, working, broken}
