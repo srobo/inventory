@@ -1,0 +1,10 @@
+assetcode : 3K8P
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    22" LCD monitor for use with the arena displays
+
+purchasing_ticket : 1134      # The trac ticket number of the purchase request
+value             : 98.11     # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
