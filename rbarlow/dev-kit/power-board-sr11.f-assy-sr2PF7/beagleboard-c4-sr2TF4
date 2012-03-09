@@ -4,6 +4,7 @@ revision  : 0
 
 description: >
     Revision C4 beagleboard
+    Flashed with a custom image for NSEW. DO NOT SHIP.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 85.00     # A rough estimate of the value of the asset
