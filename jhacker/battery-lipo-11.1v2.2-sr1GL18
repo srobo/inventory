@@ -11,6 +11,9 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
+  Broken because the battery charge fell too low.
+  The voltage was last measured at 5.8v.
+
 purchasing_ticket : 856
 value             : 11.23
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
