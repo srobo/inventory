@@ -4,10 +4,8 @@ revision  : 0
 
 description: >
   A 4-port Akasa Connect USB hub.
-  As distributed in the SR2011 kit.
-  Was in broken basket after SR2011, labelled "probably broken"
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 9.38      # A rough estimate of the value of the asset
-condition         : broken   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
 
