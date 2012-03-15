@@ -1,0 +1,10 @@
+assetcode : 3U9D
+revision  : 0
+
+description: >
+    A beagleboard XM display assembly
+
+elements:
+    - doghouse-xm
+    - beagleboard-xm-c
+    - sdmicro-card-4gb
