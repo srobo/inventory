@@ -1,0 +1,10 @@
+assetcode : 3R9F
+revision  : 0
+
+description: >
+    A beagleboard XM display assembly
+
+elements:
+    - doghouse-xm
+    - beagleboard-xm-c
+    - sdmicro-card-4gb
