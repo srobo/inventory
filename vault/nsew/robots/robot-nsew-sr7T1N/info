@@ -1,0 +1,27 @@
+assetcode : 7T1N
+revision  : 0
+
+description: >
+    `LACHLAN'
+    Both wheels, 1cm of play.
+    A robot we built for the NSEW day
+     - 40cm*40cm base
+     - electromagnet
+     - 2 * 919D501 Motors (12V, 21W)
+     - 2 * 10cm diameter wheels
+     - 1 * Ball castor
+     - 2 * Cheapo Wilko Torches
+     - Full SR elec kit, minus servo board
+
+elements:
+    - jointio-board-sr11.f-assy
+    - motor-board-sr11.f-assy: 2
+    - power-board-sr11.f-assy
+    - battery-lipo-11.1v2.2: 2
+    - usb-hub-akasa-connect
+    - usb-stick:
+        quantity: 1
+        alternatives:
+            - usb-stick-kingston-2gb
+            - usb-stick-kingston-8gb
+    - webcam-logitech-c500
