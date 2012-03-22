@@ -1,0 +1,10 @@
+assetcode : 7Q1Q
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A USB joystick, purchased for the NSEW 'bots
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 11.99      # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
