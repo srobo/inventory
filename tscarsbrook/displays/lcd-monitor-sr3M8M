@@ -1,0 +1,12 @@
+assetcode : 3M8M
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    22" LCD monitor for use with the arena displays
+    Top casing of the screen clicks and moves about, however there appears
+    to be no damage to the display or structure
+
+purchasing_ticket : 1134      # The trac ticket number of the purchase request
+value             : 98.11     # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}

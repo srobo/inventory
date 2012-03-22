@@ -1,0 +1,10 @@
+assetcode : 3V9C
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A case for a Beagleboard XM
+
+purchasing_ticket : 1134      # The trac ticket number of the purchase request
+value             : 25.48     # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
