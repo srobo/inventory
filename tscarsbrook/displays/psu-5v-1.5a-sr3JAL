@@ -1,0 +1,10 @@
+assetcode : 3JAL
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    5V 1.5A supply with 2.1mm output connector
+
+purchasing_ticket : 1134      # The trac ticket number of the purchase request
+value             : 5.47      # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
