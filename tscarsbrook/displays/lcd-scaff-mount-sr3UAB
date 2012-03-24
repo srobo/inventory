@@ -1,0 +1,10 @@
+assetcode : 3UAB
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Scaffold mount to hold LCD monitors
+
+purchasing_ticket : 1134      # The trac ticket number of the purchase request
+value             : 16.38     # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
