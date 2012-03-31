@@ -1,0 +1,19 @@
+assetcode : C0L
+revision  : 0
+
+description: >
+    `ALICE'
+    front-left motor seemingly non-functional, will investigate later
+    A robot used for demonstration purposes. Base is American, so imperial measurements are also supplied
+     - 25cm*25cm (10 inch) base
+     - 4 * 12.5cm (6 inch) diameter wheels
+     - 4 * HN-GH12-2217Y geared motors (30:1 gear ratio, 12V)
+     - Webcam, SR powerboard, 2 SR motorboards
+
+elements:
+     - power-board-sr11.f-assy
+     - motor-board-sr11.f-assy
+     - battery-lipo-11.1v2.2
+     - webcam-logitech-c500
+     - usb-hub-toshiba-4-port-mini
+     - usb-stick
