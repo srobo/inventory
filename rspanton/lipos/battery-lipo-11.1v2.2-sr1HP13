@@ -13,4 +13,4 @@ description: >-
 
 purchasing_ticket : 856
 value             : 11.23
-condition         : broken # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
