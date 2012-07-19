@@ -1,0 +1,12 @@
+assetcode : 1HV1X
+labelled  : true
+revision  : 0
+
+description: >
+    A boxed reel of cat5e cable.  Was probably 300m initially.
+    Now probably much less.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0.00      # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+
