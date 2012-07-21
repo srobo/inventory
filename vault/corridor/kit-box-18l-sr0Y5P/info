@@ -8,5 +8,6 @@ description: >
     Contains:
      - 103 * 0.5m cat5e cables
      -  84 * 0.3m cat5e cables
+     -  40 * 1m cat5e cables
 
 elements:
