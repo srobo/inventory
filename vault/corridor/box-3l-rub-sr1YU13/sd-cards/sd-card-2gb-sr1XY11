@@ -1,5 +1,5 @@
-assetcode : [ASSET_CODE]
-labelled  : false   # Does the asset have its assetcode marked on it
+assetcode : 1XY11
+labelled  : true
 revision  : 0
 
 description: >
@@ -9,5 +9,4 @@ purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 0.00      # A rough estimate of the value of the asset
 condition         : working
 
-# The serial number of the SD card
-serial: ""
+serial: "0x77f705aa"
