@@ -1,0 +1,13 @@
+assetcode : 1HG28
+labelled  : true
+revision  : 0
+
+description: >
+  A 2GB SD card.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0.00      # A rough estimate of the value of the asset
+condition         : working
+
+# The serial number of the SD card
+serial: "0x7ebd392c"

@@ -1,0 +1,12 @@
+assetcode : 1YY1Y
+labelled  : true
+revision  : 0
+
+description: >
+  A 2GB SD card.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0.00      # A rough estimate of the value of the asset
+condition         : working
+
+serial: "0x7d0d0a10"
