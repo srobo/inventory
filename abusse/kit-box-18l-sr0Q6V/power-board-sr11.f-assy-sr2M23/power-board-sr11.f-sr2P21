@@ -4,9 +4,12 @@ revision  : 2
 
 description: >
     SR2011 Power board
+    Broken due to D300 being broken. (means motor rail won't turn on if you
+    try to use it). Will get some more with the next farnell order.
+    Also, this was the first board to have the Q300 gate resistor mod tried.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
 tvs-mod-698       : true      # Has TVS diode mod 698 been applied?
