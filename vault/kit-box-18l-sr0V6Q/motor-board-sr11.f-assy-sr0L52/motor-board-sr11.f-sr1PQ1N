@@ -4,6 +4,8 @@ revision  : 1
 
 description: >
     A SR11.F motor board. Caught fire at SR2012, currently broken.
+    Was connected to a motor with 60A stall current, the FETs promptly vacated
+    the universe.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 28.00     # A rough estimate of the value of the asset
