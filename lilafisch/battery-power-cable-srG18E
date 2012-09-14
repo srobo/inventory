@@ -1,0 +1,17 @@
+assetcode : G18E
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Connects Battery to Power Board
+
+purchasing_ticket : 858       # The trac ticket number of the purchase request
+value             : 6.00      # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+
+
+parts:
+	- http://uk.farnell.com/mc-multi-contact/60-7265-21-5m/wire-plast-2v-black-2mm-5m/dp/3653018
+	- http://uk.farnell.com/mc-multi-contact/60-7265-22-5m/wire-plast-2v-red-2mm-5m/dp/3653006
+	-http://uk.farnell.com/phoenix-contact/pc-4-2-st-7-62/plug-free-7-62mm-2way/dp/1793033
+	- http://www.modelsport.co.uk/index.php?product_id=36162
