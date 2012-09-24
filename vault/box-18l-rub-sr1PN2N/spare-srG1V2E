@@ -1,0 +1,15 @@
+assetcode : G1V2E
+labelled  : true   # Spare parts might have assetcode on containing bags etc.
+revision  : 0
+description : servo-case-b      # description of one part, words seperated by '-'
+number      : 2      # number of parts available
+
+description: >
+    A short description of the asset
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0         # A rough estimate of the value per part
+condition         : working   # One of {unknown, working, broken}
+
+# This is a spare inventory, single parts don't have assetcodes, it just represents the number of spare parts that is still available.
+# photos: https://www.studentrobotics.org/~lilafisch/case-servo.png
