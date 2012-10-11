@@ -1,5 +1,5 @@
-assetcode : G1K1R
-labelled  : true   # Does the asset have its assetcode marked on it
+assetcode : 5M1Y
+labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
@@ -7,8 +7,8 @@ description: >
 
 purchasing_ticket : 858       # The trac ticket number of the purchase request
 value             : 6.00      # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
-# still has old battery connector
+condition         : unknown   # One of {unknown, working, broken}
+
 
 parts:
     - http://uk.farnell.com/mc-multi-contact/60-7265-21-5m/wire-plast-2v-black-2mm-5m/dp/3653018
