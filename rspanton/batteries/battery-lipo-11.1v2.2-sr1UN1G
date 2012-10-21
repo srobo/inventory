@@ -11,8 +11,10 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
+  Bloated
+
 purchasing_ticket : 856
 value             : 11.23
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
 velcro-attached : false
