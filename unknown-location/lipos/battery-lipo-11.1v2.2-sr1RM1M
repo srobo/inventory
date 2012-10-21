@@ -16,6 +16,6 @@ description: >-
 
 purchasing_ticket : 856
 value             : 11.23
-condition         : broken
+condition         : working
 
-velcro-attached : false
+velcro-attached : true

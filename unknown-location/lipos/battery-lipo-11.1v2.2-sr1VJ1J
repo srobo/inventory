@@ -13,8 +13,11 @@ description: >-
 
   Deans connector broken -- looks like it changed shape during soldering.
 
+  Now measures 8V. Also, boatly. So this has all the failure modes batteries
+  can have. Except for begin on fire (yet)
+
 purchasing_ticket : 856
 value             : 11.23
 condition         : broken
 
-velcro-attached : false
+velcro-attached : true
