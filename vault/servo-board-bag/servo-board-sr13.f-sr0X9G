@@ -1,9 +1,9 @@
-assetcode : 0H9W
+assetcode : 0X9G
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
-    A SR11.F servo board.
+    A SR13.F servo board.
 
 purchasing_ticket : 1306      # The trac ticket number of the purchase request
 value             : 48.00     # A rough estimate of the value of the asset
