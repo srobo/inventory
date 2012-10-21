@@ -1,10 +1,13 @@
-assetcode : 1WQ28
+assetcode : 1KQ2V
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
     A SR13.F jointio board.
 
+    Broken (via rbarlow and jmorse): Suspicious SRIC.  Didn't enumerate first
+    time, required prodding.
+
 purchasing_ticket : 1287         # The trac ticket number of the purchase request
 value             : 58.20     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
