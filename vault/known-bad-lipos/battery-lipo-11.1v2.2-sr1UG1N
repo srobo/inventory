@@ -1,0 +1,20 @@
+assetcode : 1UG1N
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >-
+  11.1v 2200 mAh Lithium-Ion Polymer battery, with female deans
+  connectors.  25C constant discharge rate max.
+
+  Burst discharge rate: 30C
+  Size: 103x33x24mm
+  Balance plug: JST-XH
+  Weight: 185g
+
+  Bloated slightly
+
+purchasing_ticket : 856
+value             : 11.23
+condition         : broken   # One of {unknown, working, broken}
+
+velcro-attached : false
