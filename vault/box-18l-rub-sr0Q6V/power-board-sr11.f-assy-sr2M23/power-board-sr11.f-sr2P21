@@ -13,3 +13,9 @@ value             : 70.00     # A rough estimate of the value of the asset
 condition         : broken   # One of {unknown, working, broken}
 
 tvs-mod-698       : true      # Has TVS diode mod 698 been applied?
+
+motor-rail-mod-1360 : false
+
+v-sense-move-1213 : false
+
+battery-aa-mod-1270 : false
