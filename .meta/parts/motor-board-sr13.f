@@ -6,5 +6,5 @@ description: >
     A SR13.F motor board.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
-value             : 28.00     # A rough estimate of the value of the asset
+value             : 40.80     # A rough estimate of the value of the asset
 condition         : unknown   # One of {unknown, working, broken}
