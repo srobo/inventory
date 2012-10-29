@@ -1,0 +1,9 @@
+assetcode : [ASSET_CODE]
+revision  : 0
+
+description: >
+    A SR2013 motor board assembly
+
+elements:
+    - motor-board-sr13.f
+    - motor-board-sr13.f-case
