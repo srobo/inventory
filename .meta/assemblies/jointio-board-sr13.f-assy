@@ -1,0 +1,9 @@
+assetcode : [ASSET_CODE]
+revision  : 0
+
+description: >
+    A jointio board assembly
+
+elements:
+    - jointio-board-sr13.f
+    - jointio-board-sr11.f-case
