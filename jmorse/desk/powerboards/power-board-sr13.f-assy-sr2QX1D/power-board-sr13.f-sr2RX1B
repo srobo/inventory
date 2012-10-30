@@ -1,0 +1,16 @@
+assetcode : 2RX1B
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    SR2013 Power board
+
+purchasing_ticket : 1342      # The trac ticket number of the purchase request
+value             : 110.66    # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+
+essential-mods:               # mods that are required
+  motor-rail-mod-1360: false
+
+non-essential-mods:           # mods that are optional
+
