@@ -5,5 +5,5 @@ description: >
     A jointio board assembly
 
 elements:
-    - jointio-board-sr11.f
+    - jointio-board-sr13.f
     - jointio-board-sr11.f-case
