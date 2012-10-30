@@ -1,0 +1,11 @@
+assetcode : [ASSET_CODE]
+revision  : 0
+
+description: >
+    Power board assembly
+
+elements:
+    - power-board-sr13.f
+    - power-board-sr13.f-case
+    - beagleboard-c4
+    - lcd-display
