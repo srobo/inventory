@@ -5,8 +5,13 @@ revision  : 0
 description: >
     Revision C4 beagleboard
 
+    This BeagleBoard doesn't want to flash.  It hangs at this point
+    during flashing:
+    [   12.098083] Waiting for root device /dev/mmcblk0p2...
+    Tried with 2 separate SD cards with the same result.
+
 purchasing_ticket : 536       # The trac ticket number of the purchase request
 value             : 85.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
 has_headers       : true    # Does the beagleboard have the expansion/LCD headers soldered on
