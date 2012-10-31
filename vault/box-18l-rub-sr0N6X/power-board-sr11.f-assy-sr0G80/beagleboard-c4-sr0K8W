@@ -11,3 +11,5 @@ value             : 85.00     # A rough estimate of the value of the asset
 condition         : working   # One of {unknown, working, broken}
 
 has_headers       :  true    # Does the beagleboard have the expansion/LCD headers soldered on
+
+firmware: 2012-rc2
