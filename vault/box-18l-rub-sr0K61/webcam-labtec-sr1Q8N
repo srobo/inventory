@@ -4,7 +4,9 @@ revision  : 0
 
 description: >
     Webcam branded with "Labtec".  Used in first, and possibly second
-    SR competitions before being superseded by the "mikomi" webcam. 
+    SR competitions before being superseded by the "mikomi" webcam.
+    On hcutts' laptop, causes both mplayer and cheese to crash on
+    launch, however works on tscarsbrook's laptop.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 3.00      # A rough estimate of the value of the asset
