@@ -5,6 +5,7 @@ revision  : 0
 description: >
     SR2013 Power board
     Always enters post; buttons don't work; peizo doesn't sound.
+    There's also a short on the LCD header soldering.
 
 purchasing_ticket : 1342      # The trac ticket number of the purchase request
 value             : 110.66    # A rough estimate of the value of the asset
