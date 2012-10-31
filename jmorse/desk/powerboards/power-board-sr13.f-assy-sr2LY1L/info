@@ -1,0 +1,11 @@
+assetcode : 2LY1L
+revision  : 0
+
+description: >
+    Power board assembly
+
+elements:
+    - power-board-sr13.f
+    - power-board-sr13.f-case
+    - beagleboard-c5
+    - lcd-display
