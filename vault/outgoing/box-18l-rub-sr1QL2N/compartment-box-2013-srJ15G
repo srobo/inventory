@@ -1,0 +1,12 @@
+assetcode : J15G
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A compartmented box that's used for shipping the mech kit parts.
+    New Farnell order code for 2013
+    Farnell #3861867
+
+purchasing_ticket : 1369      # The trac ticket number of the purchase request
+value             : 1.59      # Price from farnell, retrieved 2012-11-01
+condition         : working   # One of {unknown, working, broken}
