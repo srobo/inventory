@@ -10,3 +10,5 @@ value             : 85.00     # A rough estimate of the value of the asset
 condition         : working
 
 has_headers       :  true
+
+firmware: unknown
