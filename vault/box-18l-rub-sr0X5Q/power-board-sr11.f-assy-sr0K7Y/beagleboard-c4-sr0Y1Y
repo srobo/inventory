@@ -11,3 +11,5 @@ condition         : unknown   # One of {unknown, working, broken}
 
 has_headers       :  false    # Does the beagleboard have the expansion/LCD headers soldered on
 
+
+firmware: unknown
