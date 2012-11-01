@@ -16,3 +16,5 @@ has_headers       :  true
 # photos:
 #    - http://www.example.com/photo1.jpeg
 #    - http://www.example.com/photo2.jpeg
+
+firmware: unknown

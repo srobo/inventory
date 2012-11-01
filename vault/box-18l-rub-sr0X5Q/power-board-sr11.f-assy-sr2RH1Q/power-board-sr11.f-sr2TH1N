@@ -4,6 +4,8 @@ revision  : 1
 
 description: >
     SR2011 Power board
+    This is a dev power board. Its case is broken, otherwise it seems
+    OK.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
