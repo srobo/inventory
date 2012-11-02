@@ -1,13 +1,15 @@
-assetcode : 2P9K
+assetcode : 2UJ1K
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 1
 
 description: >
     A SR11.F motor board.
+    This board has had its FETs changed from IRF8721 to IRF8734,
+    would suggest this is kept as a dev board.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 28.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
 
 climit_disabled   : true     # Has the current limit been disabled
 

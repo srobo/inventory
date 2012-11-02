@@ -1,11 +1,14 @@
-assetcode : 5D1
-labelled  : false   # Does the asset have its assetcode marked on it
+assetcode : 2Q9J
+labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
     A case for an SR11.F motor board. Made with design in 
     ccf67392a5c3f87f8ed48afc2b9271427cac37e6.
 
+    This case has a couple of minor cracks, but it's good enough right now.
+
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 14.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
+
