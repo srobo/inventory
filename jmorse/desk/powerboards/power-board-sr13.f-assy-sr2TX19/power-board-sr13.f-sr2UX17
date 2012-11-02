@@ -4,6 +4,8 @@ revision  : 0
 
 description: >
     SR2013 Power board
+    The LCD on this board does not display anything. Swapping in a known
+    working LCD doesn't fix the problem.
 
 purchasing_ticket : 1342      # The trac ticket number of the purchase request
 value             : 110.66    # A rough estimate of the value of the asset
