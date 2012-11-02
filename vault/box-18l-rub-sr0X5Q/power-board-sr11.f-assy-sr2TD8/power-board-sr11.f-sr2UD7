@@ -6,10 +6,13 @@ description: >
     SR2011 Power board
     Allegedly had a problem during SR2011 whereby the webcam video was not 
     displayed on the LCD; no problem discovered during testing for SR2012.
+    Tested for shipping in SR2013: no problems observed, electrically or
+    software wise. No attempt to replicate webcam video, but we don't support
+    that with Koki right now.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
 
 tvs-mod-698       : true      # Has TVS diode mod 698 been applied?
 
