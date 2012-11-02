@@ -4,10 +4,11 @@ revision  : 0
 
 description: >
     A case for an SR11.F motor board. Made with design in 
-    ccf67392a5c3f87f8ed48afc2b9271427cac37e6. A chunk of plastic is
-    inside the case, broken off from outside of case
+    ccf67392a5c3f87f8ed48afc2b9271427cac37e6.
+
+    This case has a couple of minor cracks, but it's good enough right now.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 14.00     # A rough estimate of the value of the asset
-condition         : broken   # One of {unknown, working, broken}
-#C, D need replacing
+condition         : working   # One of {unknown, working, broken}
+
