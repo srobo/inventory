@@ -1,5 +1,5 @@
 assetcode : 2VQ1B
-labelled  : false   # Does the asset have its assetcode marked on it
+labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
@@ -7,4 +7,4 @@ description: >
 
 purchasing_ticket : 593       # The trac ticket number of the purchase request
 value             : 12.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
