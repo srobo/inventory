@@ -4,13 +4,18 @@ revision  : 0
 
 description: >
     SR2013 Power board
+    When turned on, the LCD seems greyer than it should be, and has some
+    visible flickering lines across it, like it was an old TV set. This
+    actually affects the colour and readability of the display, so we
+    shouldn't ship it.
+    Testing with a brand new LCD produces exactly the same effect.
 
 purchasing_ticket : 1342      # The trac ticket number of the purchase request
 value             : 110.66    # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
 essential-mods:               # mods that are required
-  motor-rail-mod-1360: false
+  motor-rail-mod-1360: true
 
 non-essential-mods:           # mods that are optional
 
