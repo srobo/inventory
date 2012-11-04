@@ -5,8 +5,8 @@ revision  : 0
 description: >
     A case for an SR11.F motor board. Made with design in 
     ccf67392a5c3f87f8ed48afc2b9271427cac37e6.
-    Smoke stains from board catching fire.
+    Smoke stains and dent from board catching fire.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 14.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : broken    # One of {unknown, working, broken}
