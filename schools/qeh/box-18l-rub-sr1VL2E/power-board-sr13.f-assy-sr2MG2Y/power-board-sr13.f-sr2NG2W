@@ -6,7 +6,8 @@ description: >
     SR2013 Power board
     currently has wrong sized cable ties because there was a loose nut inside.
     qeh don't have sufficiently small cable ties so I've opened it. Removed the
-    nut and re-cable-tied it with the best ones they had.
+    nut and re-cable-tied it with the best ones they had. Nut seletaped to
+    srbq4a (the case on this powerboard).
 
 purchasing_ticket : 1342      # The trac ticket number of the purchase request
 value             : 110.66    # A rough estimate of the value of the asset
