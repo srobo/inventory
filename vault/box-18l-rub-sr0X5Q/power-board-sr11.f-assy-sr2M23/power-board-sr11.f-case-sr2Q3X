@@ -7,6 +7,7 @@ description: >
     5af46f9c034094fa0f57a5a459758316b9f99c30
 
     A large chunk has been broken off the baseplate of this case.
+    Also, half of it is missing.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 15.00     # A rough estimate of the value of the asset

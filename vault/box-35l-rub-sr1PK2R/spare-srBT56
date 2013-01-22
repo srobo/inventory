@@ -1,11 +1,11 @@
-assetcode : G1T1J
+assetcode : BT56
 labelled  : false   # Spare parts might have assetcode on containing bags etc.
 revision  : 0
-description : usb-cables-abmini      # description of one part, words seperated by '-'
-number      : 23      # number of parts available
+description :       # description of one part, words seperated by '-'
+number      :       # number of parts available
 
 description: >
-    A short description of the asset
+    Assorted connectors and components
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 0         # A rough estimate of the value per part

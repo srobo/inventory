@@ -1,11 +1,11 @@
-assetcode : G1T1J
+assetcode : BK6B
 labelled  : false   # Spare parts might have assetcode on containing bags etc.
 revision  : 0
-description : usb-cables-abmini      # description of one part, words seperated by '-'
-number      : 23      # number of parts available
+#description :       # description of one part, words seperated by '-'
+#number      :       # number of parts available
 
 description: >
-    A short description of the asset
+    BeagleBoard headers, foam pads, power switches, 15A fuses, rotary encoder knobs
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 0         # A rough estimate of the value per part

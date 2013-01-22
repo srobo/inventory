@@ -1,11 +1,11 @@
-assetcode : G1T1J
+assetcode : BV54
 labelled  : false   # Spare parts might have assetcode on containing bags etc.
 revision  : 0
-description : usb-cables-abmini      # description of one part, words seperated by '-'
-number      : 23      # number of parts available
+description : rj45-couplers      # description of one part, words seperated by '-'
+number      : 20      # number of parts available
 
 description: >
-    A short description of the asset
+    20 RJ45 couplers
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 0         # A rough estimate of the value per part
