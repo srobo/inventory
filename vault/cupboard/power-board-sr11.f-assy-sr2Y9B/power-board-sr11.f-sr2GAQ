@@ -6,8 +6,7 @@ description: >
     SR2011 Power board
     Button 0 is broken
     On this power board, the rotary encoder sticks have been snapped,
-    rendering the rotary encoders useless. Fixing this involves replacing
-    the encoders, which is a serious soldering job.
+    and the rotary encoders removed.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset

@@ -1,0 +1,15 @@
+assetcode : BP75
+labelled  : false   # Spare parts might have assetcode on containing bags etc.
+revision  : 0
+description : castor
+number      : 16
+
+description: >
+    Small castors with four mounting screw-holes.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0         # A rough estimate of the value per part
+condition         : working   # One of {unknown, working, broken}
+
+# This is a spare inventory, single parts don't have assetcodes, it just represents the number of spare parts that is still available.
+# photos:
