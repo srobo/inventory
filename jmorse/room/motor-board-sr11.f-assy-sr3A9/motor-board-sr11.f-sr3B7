@@ -4,12 +4,11 @@ revision  : 1
 
 description: >
     A SR11.F motor board.
-    Shorted power rail. Either had its motor output shorted or the motor/power
-    connectors mixed up.
+    Has a replaced Q2 after being shorted before/at SR2013/Soton TD2.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 28.00     # A rough estimate of the value of the asset
-condition         : broken   # One of {unknown, working, broken}
+condition         : unknown   # One of {unknown, working, broken}
 
 cased             : true      # Has the asset been put into a case
 climit_disabled   : true     # Has the current limit been disabled
