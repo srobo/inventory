@@ -4,13 +4,12 @@ revision  : 1
 
 description: >
     A SR11.F motor board.
-
-    Broken:  power supply current limited at 100mA when only the power
-    connector was connected.  20mA is a typical draw.
+    Has Q6, Q2, Q4 replaced to fix it current limiting. Looks quite bad, but
+    passes tests.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 28.00     # A rough estimate of the value of the asset
-condition         : broken    # One of {unknown, working, broken}
+condition         : working    # One of {unknown, working, broken}
 
 climit_disabled   : true     # Has the current limit been disabled
 
