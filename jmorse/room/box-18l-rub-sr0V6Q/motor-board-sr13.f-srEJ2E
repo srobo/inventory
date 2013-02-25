@@ -4,9 +4,8 @@ revision  : 0
 
 description: >
     A SR13.F motor board.
-
-    Broken: this board is missing the (female) camcon connector.
+    Has a manually fitted J2, due to Garner Osbourne delivering it short
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 40.80     # A rough estimate of the value of the asset
-condition         : broken    # One of {unknown, working, broken}
+condition         : unknown    # One of {unknown, working, broken}
