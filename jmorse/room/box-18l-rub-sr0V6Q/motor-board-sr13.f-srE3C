@@ -7,6 +7,10 @@ description: >
 
     Broken: the output (at 100%) was only around 300-400mV.
 
+    Pins 18 and 21 of the MSP do not produce any change in output when
+    the board is drive over SRIC. There's also a wave on all outputs
+    (ITR, ITL, IBR, IBL) of period 20ms, 600mv peak to peak, 0v DC bias
+
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 40.80     # A rough estimate of the value of the asset
 condition         : broken   # One of {unknown, working, broken}
