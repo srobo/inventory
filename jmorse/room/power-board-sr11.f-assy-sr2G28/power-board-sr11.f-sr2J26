@@ -4,11 +4,11 @@ revision  : 1
 
 description: >
     SR2011 Power board
-    Plastic missing from external USB connector
+    Replaced external USB connector
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
-condition         : broken   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
 
 tvs-mod-698       : true      # Has TVS diode mod 698 been applied?
 
