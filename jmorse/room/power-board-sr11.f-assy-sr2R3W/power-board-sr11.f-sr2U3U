@@ -4,13 +4,10 @@ revision  : 2
 
 description: >
     SR2011 Power board
-    This board went to GO and came back; an initial test showed that it was
-    current limiting at a higher level, it needs all the tests running over
-    it again.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
 
 tvs-mod-698       : false     # Has TVS diode mod 698 been applied?
 
