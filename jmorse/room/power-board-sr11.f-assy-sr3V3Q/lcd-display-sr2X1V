@@ -5,6 +5,9 @@ revision  : 1
 description: >
     PSP LCD display from SR2011 power board assembly
     Shows vertical red, green and blue lines on the left edge.
+    When powered, the backlight slowly fades. Additionally the picture shown
+    is offset vertically by about +70 pixels for no apparently reason. Tested
+    on more than one power board, it's definitely the LCD failing.
 
 purchasing_ticket : 593       # The trac ticket number of the purchase request
 value             : 12.00     # A rough estimate of the value of the asset
