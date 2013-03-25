@@ -4,10 +4,15 @@ revision  : 0
 
 description: >
     A SR11.F motor board.
+    Set on fire PLE; Q5 has completely self destructed, lifting the PCB plating
+    connecting it to the camcon. the traces on the far side have evaporated to
+    half their normal length. The base resistor (R25?) looks like it's been
+    reflowed too.
+    Could be fixed, at a stretch, really not worth it though.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 28.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
 climit_disabled   : true     # Has the current limit been disabled
 
