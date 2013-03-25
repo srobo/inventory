@@ -4,6 +4,8 @@ revision  : 0
 
 description: >
     A SR13.F motor board.
+    Had Q3/Q5 replaced after PLE set fire to it. One solder bridge across two
+    pins already connected on the PCB, during fixing.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 40.80     # A rough estimate of the value of the asset
