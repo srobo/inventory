@@ -1,4 +1,4 @@
-assetcode : 1HK17
+assetcode : 1XJ1E
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -11,8 +11,11 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
+  Currently not charging with High Cell Voltage errors. tward will attempt to
+  discharge and recharge
+
 purchasing_ticket : 856
 value             : 11.23
-condition         : working   # One of {unknown, working, broken}
+condition         : unknown  # One of {unknown, working, broken}
 
-velcro-attached : false
+velcro-attached : true

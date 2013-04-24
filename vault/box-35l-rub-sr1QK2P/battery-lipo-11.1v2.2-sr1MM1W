@@ -1,4 +1,4 @@
-assetcode : 1HP13
+assetcode : 1MM1W
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -15,4 +15,4 @@ purchasing_ticket : 856
 value             : 11.23
 condition         : working   # One of {unknown, working, broken}
 
-velcro-attached : false
+velcro-attached : true

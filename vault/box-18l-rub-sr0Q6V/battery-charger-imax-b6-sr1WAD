@@ -1,4 +1,4 @@
-assetcode : 1HFF
+assetcode : 1WAD
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -12,5 +12,6 @@ description: >
 
 purchasing_ticket : 845       # The trac ticket number of the purchase request
 value             : 12.80     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
 
+# infrequent connection errors
