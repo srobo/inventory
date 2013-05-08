@@ -10,8 +10,7 @@ description: >
 
     Capable of charging LiPo, LiIon, NiMH, NiCD, Pb
 
-    Unclear whether this is marked as broken due to a broken lead or something
-    else.
+    Faulty voltage measurement: cell 2 comes out 0.5 V high
 
 purchasing_ticket : 845       # The trac ticket number of the purchase request
 value             : 12.80     # A rough estimate of the value of the asset
