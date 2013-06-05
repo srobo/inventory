@@ -1,0 +1,16 @@
+assetcode : L14E
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    a kill switch is an emergency stop button conected to a usb controler
+
+purchasing_ticket : 1559      # The trac ticket number of the purchase request
+value             : 10.00      # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+
+cased             : false     # Has the asset been put into a case
+
+# photos:
+#    - http://www.example.com/photo1.jpeg
+#    - http://www.example.com/photo2.jpeg
