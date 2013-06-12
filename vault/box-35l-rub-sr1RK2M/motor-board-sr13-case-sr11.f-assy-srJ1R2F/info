@@ -1,0 +1,10 @@
+assetcode : J1R2F
+revision  : 0
+
+description: >
+    An SR2013 motor board assembly using an SR2011 case with the feedback
+    connector hole covered with tape.
+
+elements:
+    - motor-board-sr13.f
+    - motor-board-sr11.f-case

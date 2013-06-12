@@ -1,9 +1,0 @@
-assetcode : 3Q2X
-revision  : 0
-
-description: >
-    A motor board assembly
-
-elements:
-    - motor-board-sr11.f
-    - motor-board-sr11.f-case
