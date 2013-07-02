@@ -4,7 +4,7 @@ revision  : 0
 
 description: >
     SR2013 Power board
-    No 5v rail when powered.
+    No 5v rail when powered. Also, the top right button has fallen off.
 
 purchasing_ticket : 1342      # The trac ticket number of the purchase request
 value             : 110.66    # A rough estimate of the value of the asset
