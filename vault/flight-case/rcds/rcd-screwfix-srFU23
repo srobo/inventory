@@ -1,0 +1,10 @@
+assetcode : FU23
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    An RCD, screwfix #63731.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 4.89     # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
