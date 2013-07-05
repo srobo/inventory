@@ -2,7 +2,7 @@ assetcode : G1T1J
 labelled  : false   # Spare parts might have assetcode on containing bags etc.
 revision  : 0
 description : usb-cables-abmini      # description of one part, words seperated by '-'
-number      : 23      # number of parts available
+number      : 25      # number of parts available
 
 description: >
     A short description of the asset

@@ -1,0 +1,10 @@
+assetcode : M1R1E
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    5-port Netgear FS605 v2 10/100Mbit/s switch with suitable power supply.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0.00      # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}

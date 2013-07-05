@@ -2,7 +2,7 @@ assetcode : BN68
 labelled  : false   # Spare parts might have assetcode on containing bags etc.
 revision  : 0
 description : electromagnet  # description of one part, words seperated by '-'
-number      : 3     # number of parts available
+number      : 1     # number of parts available
 
 description: >
     Hand or drill-wound electromagnets
