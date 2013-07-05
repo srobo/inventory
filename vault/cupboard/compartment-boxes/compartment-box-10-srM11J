@@ -1,0 +1,10 @@
+assetcode : M11J
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A compartmented box that's used for shipping the mech kit parts.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0
+condition         : unknown   # One of {unknown, working, broken}
