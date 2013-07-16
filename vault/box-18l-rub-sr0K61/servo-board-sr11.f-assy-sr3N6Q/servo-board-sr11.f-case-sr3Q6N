@@ -4,7 +4,8 @@ revision  : 0
 
 description: >
     A case for an SR11.F servo board.
+    Missing a chunk of the base.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 14.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : broken    # One of {unknown, working, broken}

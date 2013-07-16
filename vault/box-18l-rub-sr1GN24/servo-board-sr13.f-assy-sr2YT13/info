@@ -1,9 +1,0 @@
-assetcode : 2YT13
-revision  : 0
-
-description: >
-    A servo board assembly
-
-elements:
-    - servo-board-sr13.f
-    - servo-board-sr11.f-case

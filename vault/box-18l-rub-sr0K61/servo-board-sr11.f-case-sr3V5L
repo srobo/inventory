@@ -4,7 +4,7 @@ revision  : 0
 
 description: >
     A case for an SR11.F servo board.
-    Some damage to the case, half of a mounting slot snapped off
+    Some damage to the case, half of a mounting slot snapped off, rather sharp
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 14.00     # A rough estimate of the value of the asset
