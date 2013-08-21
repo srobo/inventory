@@ -3,11 +3,11 @@ labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
-    Connects Battery to Power Board
+    Connects Battery to Power Board. Deans connector removed.
 
 purchasing_ticket : 858       # The trac ticket number of the purchase request
 value             : 6.00      # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : broken    # One of {unknown, working, broken}
 
 
 parts:
