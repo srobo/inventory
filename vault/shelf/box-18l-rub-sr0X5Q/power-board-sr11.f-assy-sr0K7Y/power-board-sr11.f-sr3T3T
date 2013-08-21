@@ -6,6 +6,8 @@ description: >
     SR2011 Power board
     Nothing displays on the LCD. A 5V pad had been lifted from one of the LCD
     headers so it could be some signal lines are the same.
+    High sides of C102 and C105 have been connected together for
+    reasons unknown (they should be the same node).
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
