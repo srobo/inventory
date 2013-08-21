@@ -4,8 +4,8 @@ revision  : 1
 
 description: >
     SR2011 Power board
-    This is a dev power board. Its case is broken, otherwise it seems
-    OK.
+    This is a dev power board. The current draw hits the limit (of 9.99A)
+    when a motor is connected to the motor rail.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
