@@ -5,10 +5,11 @@ revision  : 0
 description: >
     Revision C4 beagleboard
     Currently has abnormal uboot on it.
+    Recorded as failing to boot during testing on 21/08/13.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 85.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
 has_headers       :  true     # Does the beagleboard have the expansion/LCD headers soldered on
 
