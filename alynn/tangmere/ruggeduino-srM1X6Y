@@ -5,7 +5,9 @@ revision  : 0
 description: >
     A Rugged Circuits Ruggeduino http://ruggedcircuits.com/html/ruggeduino.html
 
-purchasing_ticket : 0         # The trac ticket number of the purchase request
+    Appears to have one broken GPIO pin (pin 0).
+
+purchasing_ticket : 0          # The trac ticket number of the purchase request
 value             : 30.00      # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken     # One of {unknown, working, broken}
 
