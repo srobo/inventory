@@ -1,0 +1,10 @@
+assetcode : N1X26
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Kingston DataTraveler G3 8GB USB memory stick. White with a yellow bumper.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 6.00      # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
