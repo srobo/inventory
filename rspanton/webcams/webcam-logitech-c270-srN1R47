@@ -10,4 +10,4 @@ value             : 20.00     # A rough estimate of the value of the asset
 condition         : unknown   # One of {unknown, working, broken}
 
 # The serial number of the webcam
-serial: [SERIAL_NUMBER]
+serial: C45FE850
