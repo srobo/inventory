@@ -1,0 +1,10 @@
+assetcode : N158
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    PSP LCD display from SR2011 power board assembly
+
+purchasing_ticket : 593       # The trac ticket number of the purchase request
+value             : 12.00     # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
