@@ -3,10 +3,16 @@ labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
-    Revision D BeagleBoard
+    Revision D BeagleBoard.
+    When flashing the 2012 firmware onto this (to test whether it works), linux
+    fails to detect/mount the SD card. (Despite uboot having loaded the kernel
+    from it).
+
+    Perhaps that's fixable, but for the moment it's a good indicator that this 
+    board is broken in some way.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 85.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
 has_headers       :  true    # Does the beagleboard have the expansion/LCD headers soldered on
