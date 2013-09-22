@@ -1,0 +1,11 @@
+assetcode : 2QJ2P
+revision  : 0
+
+description: >
+    Power board assembly
+
+elements:
+    - power-board-sr14.f
+    - power-board-sr13.f-case
+    - beagleboard-d
+    - lcd-display
