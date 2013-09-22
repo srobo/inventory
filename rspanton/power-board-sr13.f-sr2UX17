@@ -4,12 +4,12 @@ revision  : 0
 
 description: >
     SR2013 Power board
-    The LCD on this board does not display anything. Swapping in a known
-    working LCD doesn't fix the problem.
+    Previously reported as not displaying on the LCD correctly; this turned out
+    to be a short on the power-board side of the BB/PB LCD headers.
 
 purchasing_ticket : 1342      # The trac ticket number of the purchase request
 value             : 110.66    # A rough estimate of the value of the asset
-condition         : broken    # One of {unknown, working, broken}
+condition         : unknown    # One of {unknown, working, broken}
 
 essential-mods:               # mods that are required
   motor-rail-mod-1360: true
