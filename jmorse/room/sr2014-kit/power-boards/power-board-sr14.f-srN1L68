@@ -4,10 +4,13 @@ revision  : 0
 
 description: >
     SR2014 Power board
+    During POST, the top right LED (LED206) doesn't light when the top right
+    button is pressed (S201). Could be either the LED or the switch; some of
+    the other LEDs on this board have been clearly mangled by a soldering iron.
 
 purchasing_ticket : 1778      # The trac ticket number of the purchase request
 value             : 110.66    # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
 essential-mods:               # mods that are required
 
