@@ -6,10 +6,11 @@ description: >
     SR2014 Power board
     During POST, the top right LED (LED206) doesn't light when the top right
     button is pressed (S201). Further testing show it's the LED that's dead.
+    I rate this as 'working'.
 
 purchasing_ticket : 1778      # The trac ticket number of the purchase request
 value             : 110.66    # A rough estimate of the value of the asset
-condition         : broken   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
 
 essential-mods:               # mods that are required
 
