@@ -5,13 +5,16 @@ revision  : 0
 description: >
     SR2013 Power board
     A pad has been lifted during the process of modding (R333)
+    This has been repaired, with a wire through to R318 and R333 soldered onto
+    the track leading through to Q300. I've also added a blob of hot glue as
+    mechanical support, just in case -- don't scream when you see it Rob.
 
 purchasing_ticket : 1342      # The trac ticket number of the purchase request
 value             : 110.66    # A rough estimate of the value of the asset
-condition         : broken   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
 
 essential-mods:               # mods that are required
-  motor-rail-mod-1360: false
+  motor-rail-mod-1360: true
 
 non-essential-mods:           # mods that are optional
 
