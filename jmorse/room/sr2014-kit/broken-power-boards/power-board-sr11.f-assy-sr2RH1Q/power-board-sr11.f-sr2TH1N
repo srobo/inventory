@@ -4,13 +4,16 @@ revision  : 1
 
 description: >
     SR2011 Power board
-    This is a dev power board. The current draw hits the limit (of 9.99A)
-    when a motor is connected to the motor rail.
     Replaced push switch S200 seeing how it only worked half of the time.
+
+    Previously marked as current limiting when something goes on the motor rail,
+    I couldn't replicate with a tiny 3A power supply. I think the previous
+    current limit was due to Denis' expensive supplies being extremely sensitive
+    to the inrush current, or something.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
-condition         : broken    # One of {unknown, working, broken}
+condition         : working    # One of {unknown, working, broken}
 
 tvs-mod-698       : true      # Has TVS diode mod 698 been applied?
 
