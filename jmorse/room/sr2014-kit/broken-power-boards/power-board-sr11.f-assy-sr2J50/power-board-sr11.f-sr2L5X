@@ -6,8 +6,10 @@ description: >
     SR2011 Power board
     The top-left button of this board has been replaced.
     LCD headers reworked, being originally dry.
-    Currently this board displays too much green on the LCD. The SR blue in the
-    logo doesn't work very well at all.
+    U104 (2nd level shifter) seems to be broken -- GO have reworked it, but
+    while data goes into pin 41, it doesn't come out of pin 8.
+    The net effect of this is that the display is greener than it should be,
+    which isn't fatal, and if we were short on boards we could ship it.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
