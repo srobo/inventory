@@ -4,7 +4,9 @@ revision  : 0
 
 description: >
     SR2013 Power board
-    No 5v rail when powered. Also, the top right button has fallen off.
+    No 5v rail when powered. U303 gets very warm, and the EN pin of U302 is
+    8.5v, which I'm confident is out of spec. So, some kind of regulator fail
+    is occurring here.
 
 purchasing_ticket : 1342      # The trac ticket number of the purchase request
 value             : 110.66    # A rough estimate of the value of the asset
