@@ -5,10 +5,9 @@ revision  : 0
 description: >
     SR2011 Power board
     The top-left button of this board has been replaced.
-    LCD currently doesn't display correctly; it seems that 'blue' data is
-    displayed about 1cm to the right of where it should be, with flicker, which
-    suggests a bad connection / stray capacitance? The joints on the LCD header
-    look dry.
+    LCD headers reworked, being originally dry.
+    Currently this board displays too much green on the LCD. The SR blue in the
+    logo doesn't work very well at all.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
