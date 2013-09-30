@@ -4,7 +4,11 @@ revision  : 1
 
 description: >
     PSP LCD display from SR2011 power board assembly
+    Poor display quality -- changes in the picture tend to fade, as if they've
+    been burnt in, and grey scanlines appear on the image, making it seem as if
+    it's a lower resolution that it is.
+    Could still be shipped if there's kit pressure, so don't throw it away.
 
 purchasing_ticket : 593       # The trac ticket number of the purchase request
 value             : 12.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
