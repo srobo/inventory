@@ -12,8 +12,8 @@ condition         : working   # One of {unknown, working, broken}
 
 tvs-mod-698       : true      # Has TVS diode mod 698 been applied?
 
-motor-rail-mod-1360 : false
+motor-rail-mod-1360 : true
 
-v-sense-move-1213 : false
+v-sense-move-1213 : true
 
-battery-aa-mod-1270 : false
+battery-aa-mod-1270 : true
