@@ -6,6 +6,7 @@ description: >
     SR2011 Power board
     3.3v regulator has released the magic black smoke (despite a 50ma current
     limit).
+    The case of L300 has been smashed.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
