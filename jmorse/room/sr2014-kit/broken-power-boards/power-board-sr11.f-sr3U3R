@@ -4,6 +4,7 @@ revision  : 0
 
 description: >
     SR2011 Power board. Possibly dodgy 5V rail.
+    Shorts even when no fuses or switches placed.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
