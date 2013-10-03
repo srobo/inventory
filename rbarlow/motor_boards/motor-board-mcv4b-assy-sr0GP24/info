@@ -1,0 +1,9 @@
+assetcode : 0GP24
+revision  : 0
+
+description: >
+    An MCv4b assembly
+
+elements:
+    - motor-board-mcv4b
+    - motor-board-mcv4b-case
