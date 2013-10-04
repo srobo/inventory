@@ -4,8 +4,9 @@ revision  : 0
 
 description: >
     A SR13.F servo board.
+    5V servo rail sits at 2V
 
 purchasing_ticket : 1306      # The trac ticket number of the purchase request
 value             : 48.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 

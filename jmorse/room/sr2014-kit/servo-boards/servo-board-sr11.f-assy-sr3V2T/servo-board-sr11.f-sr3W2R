@@ -4,7 +4,8 @@ revision  : 1
 
 description: >
     A SR11.F servo board.
+    Q1 has caught fire.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 30.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}

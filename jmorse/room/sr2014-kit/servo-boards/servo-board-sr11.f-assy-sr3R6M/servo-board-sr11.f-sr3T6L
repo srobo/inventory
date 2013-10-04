@@ -3,10 +3,10 @@ labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 1
 
 description: >
-    A SR11.F servo board. I (rbarlow) flashed this board with a new firmware
-    using flashb on the kit. It still functions, however any attempt to update
-    the firmware again results in flashb failing at 27%.
+    A SR11.F servo board. 
+    Previously reported as flashb hanging during updates; however I (jmorse)
+    haven't been able to replicate this in tesing for SR2014 (tried 3 times).
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 30.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
