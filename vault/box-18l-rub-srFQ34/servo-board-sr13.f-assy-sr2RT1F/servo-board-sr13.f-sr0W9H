@@ -1,0 +1,12 @@
+assetcode : 0W9H
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A SR13.F servo board.
+    Power rail trips a 50ma current limit in step 2 of the tests.git tests.
+
+purchasing_ticket : 1306      # The trac ticket number of the purchase request
+value             : 48.00     # A rough estimate of the value of the asset
+condition         : broken   # One of {unknown, working, broken}
+

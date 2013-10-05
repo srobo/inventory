@@ -1,0 +1,12 @@
+assetcode : 2WG1H
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 1
+
+description: >
+    A SR11.F servo board.
+    Doesn't set the servo position when turned on.
+    5V servo rail sits at 2V.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 30.00     # A rough estimate of the value of the asset
+condition         : broken   # One of {unknown, working, broken}
