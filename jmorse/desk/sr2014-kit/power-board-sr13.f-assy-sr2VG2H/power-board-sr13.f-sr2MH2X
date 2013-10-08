@@ -10,7 +10,7 @@ value             : 110.66    # A rough estimate of the value of the asset
 condition         : working   # One of {unknown, working, broken}
 
 essential-mods:               # mods that are required
-  motor-rail-mod-1360: false
+  motor-rail-mod-1360: true
 
 non-essential-mods:           # mods that are optional
 
