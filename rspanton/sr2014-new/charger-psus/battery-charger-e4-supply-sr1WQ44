@@ -1,0 +1,10 @@
+assetcode : 1WQ44
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A 12V 4.5A power adapter for use with the E4 battery charger.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 7.8       # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
