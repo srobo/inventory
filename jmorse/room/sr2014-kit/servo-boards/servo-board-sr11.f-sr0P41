@@ -4,8 +4,11 @@ revision  : 0
 
 description: >
     A SR11.F servo board.
+    Outputs 2 and 3? Next to R13 and R12, work incorrectly. An attached servo
+    flails around for a bit and then locks at one end of its range. Testing
+    other outputs successfully completes a full slow-then-fast sweep.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 30.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
