@@ -1,0 +1,11 @@
+assetcode : 2NQ2M
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Power board assembly case, produced from power-hw
+    7f0f5faee691d8ab5454f660069a0c9fd3037118
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 15.00     # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
