@@ -5,8 +5,10 @@ revision  : 0
 description: >
     A SR11.F servo board.
     Label on case says "Stops other devices enuming (lvds)"
+    Testing for SR2014, this board responds with the wrong device type. I
+    haven't tried reflashing the MSP due to time constraints.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 30.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
