@@ -1,0 +1,9 @@
+assetcode : 2RR2E
+revision  : 0
+
+description: >
+    A servo board assembly
+
+elements:
+    - servo-board-sr11.f
+    - servo-board-sr11.f-case
