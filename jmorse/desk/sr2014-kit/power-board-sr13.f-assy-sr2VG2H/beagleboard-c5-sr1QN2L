@@ -11,4 +11,4 @@ condition         : unknown   # One of {unknown, working, broken}
 
 has_headers       :  true    # Does the beagleboard have the expansion/LCD headers soldered on
 
-firmware: 2012-rc2
+firmware: sr2014-ship
