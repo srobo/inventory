@@ -17,4 +17,4 @@ has_headers       :  true    # Does the beagleboard have the expansion/LCD heade
 #    - http://www.example.com/photo1.jpeg
 #    - http://www.example.com/photo2.jpeg
 
-firmware: unknown
+firmware: sr2014-ship
