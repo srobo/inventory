@@ -1,0 +1,10 @@
+assetcode : 1GG62
+revision  : 0
+
+description: >
+  A cased ruggeduino assembly.
+
+elements:
+  - ruggeduino-case
+  - ruggeduino
+

@@ -1,0 +1,10 @@
+assetcode : 1JY5H
+revision  : 0
+
+description: >
+  A cased ruggeduino assembly.
+
+elements:
+  - ruggeduino-case
+  - ruggeduino
+

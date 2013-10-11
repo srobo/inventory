@@ -1,0 +1,10 @@
+assetcode : 1XX5T
+revision  : 0
+
+description: >
+  A cased ruggeduino assembly.
+
+elements:
+  - ruggeduino-case
+  - ruggeduino
+

@@ -1,0 +1,10 @@
+assetcode : 1NY59
+revision  : 0
+
+description: >
+  A cased ruggeduino assembly.
+
+elements:
+  - ruggeduino-case
+  - ruggeduino
+
