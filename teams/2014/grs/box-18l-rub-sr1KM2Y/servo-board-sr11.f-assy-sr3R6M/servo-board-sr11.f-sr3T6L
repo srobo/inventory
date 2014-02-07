@@ -4,9 +4,10 @@ revision  : 1
 
 description: >
     A SR11.F servo board. 
-    Previously reported as flashb hanging during updates; however I (jmorse)
-    haven't been able to replicate this in tesing for SR2014 (tried 3 times).
+
+    The main transistor (Q1) of the SMPS has been fried due to too
+    much current being drawn from it.  Reported in trac #2293.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 30.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
