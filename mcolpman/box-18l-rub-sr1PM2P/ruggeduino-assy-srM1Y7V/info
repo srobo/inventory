@@ -1,0 +1,10 @@
+assetcode : M1Y7V
+revision  : 0
+
+description: >
+  A cased ruggeduino assembly.
+
+elements:
+  - ruggeduino-case
+  - ruggeduino
+
