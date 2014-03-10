@@ -1,0 +1,22 @@
+assetcode : BL86
+revision  : 0
+
+description: >
+    A robot we built for outreach
+     - 50cm*50cm base
+     - 3 * 919D501 Motors (12V, 21W)
+     - 3 * 10cm diameter omniwheels
+     - Full SR elec kit, minus Ruggeduino and servo board
+
+elements:
+    - servo-board-sr11.f-assy
+    - motor-board-sr11.f-assy: 3
+    - power-board-sr11.f-assy
+    - battery-lipo-11.1v2.2: 2
+    - usb-hub-akasa-connect
+    - usb-stick:
+        quantity: 1
+        alternatives:
+            - usb-stick-kingston-2gb
+            - usb-stick-kingston-8gb
+    - webcam-logitech-c500
