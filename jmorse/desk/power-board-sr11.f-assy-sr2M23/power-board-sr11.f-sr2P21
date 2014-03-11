@@ -5,6 +5,7 @@ revision  : 2
 description: >
     SR2011 Power board
     Replaced D300, was knocked off in the past in an accident.
+    TVS diode croaked (trac #2297) and replaced.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
