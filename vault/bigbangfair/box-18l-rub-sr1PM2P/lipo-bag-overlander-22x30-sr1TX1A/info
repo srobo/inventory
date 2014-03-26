@@ -5,5 +5,9 @@ description: >
     An Overlander Lipo Safe Sack.
     For charging and storing lipo batteries in.
     22 x 30 cm
+    Also contains a hole.
 
 elements:
+
+
+condition: broken
