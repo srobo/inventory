@@ -4,8 +4,9 @@ revision  : 0
 
 description: >
     A SR13.F servo board.
+    The 5v rail here puts out ~8V. Previously reported as putting out 12V.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 48.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
