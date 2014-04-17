@@ -5,6 +5,8 @@ revision  : 0
 description: >
     A SR13.F servo board.
     5V servo rail sits at 2V
+    Now current limits at 50ma when power is plugged in. U1, the 3.3v (?) reg
+    gets warm.
 
 purchasing_ticket : 1306      # The trac ticket number of the purchase request
 value             : 48.00     # A rough estimate of the value of the asset
