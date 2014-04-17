@@ -4,7 +4,7 @@ revision  : 1
 
 description: >
     A SR11.F servo board. Was swapped out at the competition, unknown symptoms.
-    Servo 5V rail sits at 2V.
+    Servo 5V rail sits at 2V when powered on and 5V rail enabled.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 30.00     # A rough estimate of the value of the asset
