@@ -5,12 +5,10 @@ revision  : 1
 description: >
     SR2011 Power board
     Replaced push switch S200 seeing how it only worked half of the time.
-    Inspecting TVS diode, it's shattered into a million pieces. Doesn't
-    currently affect operation though.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
-condition         : broken    # One of {unknown, working, broken}
+condition         : unknown    # One of {unknown, working, broken}
 
 tvs-mod-698       : true      # Has TVS diode mod 698 been applied?
 
