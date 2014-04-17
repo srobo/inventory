@@ -5,6 +5,8 @@ revision  : 0
 description: >
     A SR11.F servo board.
     Short circuits SRIC
+    U2 (LVDS?) looks sweaty and gets warm when more current is poured through
+    the board.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 30.00     # A rough estimate of the value of the asset
