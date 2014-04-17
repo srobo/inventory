@@ -4,7 +4,8 @@ revision  : 0
 
 description: >
     A SR13.F servo board.
-    Power rail trips a 50ma current limit in step 2 of the tests.git tests.
+    Previously reported as current limiting during step 2 of testing
+    Now delivers 8V from the power rail when powered on, and 5V rail enabled
 
 purchasing_ticket : 1306      # The trac ticket number of the purchase request
 value             : 48.00     # A rough estimate of the value of the asset
