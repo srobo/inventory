@@ -5,6 +5,8 @@ revision  : 1
 description: >
     A SR11.F servo board.
     Trips 50ma current limit on test 2 from tests.git
+    The PCB around D4 has turned slightly brown, and D4 becomes warm when
+    more current is poured through the board.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 30.00     # A rough estimate of the value of the asset
