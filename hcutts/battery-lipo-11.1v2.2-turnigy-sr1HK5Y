@@ -6,6 +6,9 @@ description: >-
   11.1v 2200 mAh Lithium-Ion Polymer battery, with female XT60
   connector.  20C constant discharge rate max.
 
+  Will not charge. An iMax v6 charger (sr1WAD) displays "Battery check... low
+  voltage" immediately after holding the start button.
+
   Burst discharge rate (10sec): 30C
   Size: 103x33x24mm
   Balance plug: JST-XH
@@ -13,4 +16,4 @@ description: >-
 
 purchasing_ticket : 1880
 value             : 6.24
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken  # One of {unknown, working, broken}
