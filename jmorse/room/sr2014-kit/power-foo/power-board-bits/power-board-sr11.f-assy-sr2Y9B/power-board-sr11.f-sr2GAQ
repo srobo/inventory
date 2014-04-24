@@ -7,10 +7,11 @@ description: >
     Power rail fail mod here has the gate resistor in a nonstandard location.
     It's butting up against R318, rather than being next to Q300. The motor
     rail itself shows the same rise/fall time expected of the motor rail mod.
+    Currently the on-board BB fails to boot
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
-condition         : unknown
+condition         : broken
 
 tvs-mod-698       : true      # Has TVS diode mod 698 been applied?
 
