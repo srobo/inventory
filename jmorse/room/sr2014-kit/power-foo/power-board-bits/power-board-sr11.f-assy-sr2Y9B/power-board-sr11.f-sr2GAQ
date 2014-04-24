@@ -4,11 +4,13 @@ revision  : 1
 
 description: >
     SR2011 Power board
-    The motor fail mod on this looks wrong, I can't see the gate resistor.
+    Power rail fail mod here has the gate resistor in a nonstandard location.
+    It's butting up against R318, rather than being next to Q300. The motor
+    rail itself shows the same rise/fall time expected of the motor rail mod.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
-condition         : broken
+condition         : unknown
 
 tvs-mod-698       : true      # Has TVS diode mod 698 been applied?
 
