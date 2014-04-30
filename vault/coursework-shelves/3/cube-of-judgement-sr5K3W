@@ -1,0 +1,11 @@
+assetcode : 5K3W
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    The most judgemental of all cubes. Blueshirts worship it;
+    competitors fear it.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 5.00      # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
