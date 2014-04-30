@@ -1,0 +1,10 @@
+assetcode : P1J1K
+revision  : 0
+
+description: >
+  A cased ruggeduino assembly.
+
+elements:
+  - ruggeduino-case
+  - ruggeduino
+
