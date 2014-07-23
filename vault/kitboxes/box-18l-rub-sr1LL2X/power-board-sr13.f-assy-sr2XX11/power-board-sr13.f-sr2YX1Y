@@ -6,10 +6,11 @@ description: >
     SR2013 Power board
     Replaced Q300, the motor rail fet, which was shorting all it's terminals.
     Damaged R309 in the process, sorry, but repaired.
+    Damaged usb connector
 
 purchasing_ticket : 1342      # The trac ticket number of the purchase request
 value             : 110.66    # A rough estimate of the value of the asset
-condition         : working    # One of {unknown, working, broken}
+condition         : broken    # One of {unknown, working, broken}
 
 essential-mods:               # mods that are required
   motor-rail-mod-1360: true
