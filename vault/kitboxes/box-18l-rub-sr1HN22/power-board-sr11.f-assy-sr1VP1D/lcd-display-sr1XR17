@@ -7,4 +7,4 @@ description: >
 
 purchasing_ticket : 0
 value             : 12.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : working  # One of {unknown, working, broken}

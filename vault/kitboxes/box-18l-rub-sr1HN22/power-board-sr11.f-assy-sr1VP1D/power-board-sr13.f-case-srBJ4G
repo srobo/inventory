@@ -9,6 +9,6 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 15.00     # A rough estimate of the value of the asset
-condition         : broken   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
 
 dremel-mod        : true      # Has this case received the host-usb dremel mod
