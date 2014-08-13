@@ -1,13 +1,15 @@
-assetcode : 5Q1V
+assetcode : 5P1W
 labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
-    Connects Battery to Power Board
+    Connects Battery to Power Board.
+
+    This battery power cable has taken life lessons from jmorse.
 
 purchasing_ticket : 858       # The trac ticket number of the purchase request
 value             : 6.00      # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
 
 parts:
