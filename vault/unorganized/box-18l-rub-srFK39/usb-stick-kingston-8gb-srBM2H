@@ -1,4 +1,4 @@
-assetcode : BV1C
+assetcode : BM2H
 labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -7,4 +7,4 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 6.00      # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : unknown   # One of {unknown, working, broken}
