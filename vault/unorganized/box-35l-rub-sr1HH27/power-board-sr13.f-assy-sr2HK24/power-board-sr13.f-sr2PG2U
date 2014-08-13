@@ -1,0 +1,19 @@
+assetcode : 2PG2U
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    SR2013 Power board
+    Previously reported as drawing abnormal current, however Rich explained to
+    me (jmorse) in the pub that that was likely because it wasn't programmed
+    rather than some other fail.
+
+purchasing_ticket : 1342      # The trac ticket number of the purchase request
+value             : 110.66    # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+
+essential-mods:               # mods that are required
+  motor-rail-mod-1360: true
+
+non-essential-mods:           # mods that are optional
+
