@@ -9,4 +9,4 @@ description: >
 
 purchasing_ticket : 1985      # The trac ticket number of the purchase request
 value             : 3.84      # Price from farnell, retrieved 2012-11-01
-condition         : working   # One of {unknown, working, broken}
+condition         : unknown   # One of {unknown, working, broken}

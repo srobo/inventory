@@ -1,4 +1,4 @@
-assetcode : 91M
+assetcode : 9A3
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -8,4 +8,4 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 1.86      # Price from farnell, retrieved 2011-09-24
-condition         : working   # One of {unknown, working, broken}
+condition         : unknown   # One of {unknown, working, broken}

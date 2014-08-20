@@ -1,4 +1,4 @@
-assetcode : J1Q1J
+assetcode : J1N1L
 labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -9,4 +9,4 @@ description: >
 
 purchasing_ticket : 1369      # The trac ticket number of the purchase request
 value             : 1.59      # Price from farnell, retrieved 2012-11-01
-condition         : working   # One of {unknown, working, broken}
+condition         : unknown   # One of {unknown, working, broken}
