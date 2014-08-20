@@ -1,9 +1,0 @@
-assetcode : 1K35
-revision  : 0
-
-description: >
-    A jointio board assembly
-
-elements:
-    - jointio-board-sr11.f
-    - jointio-board-sr11.f-case
