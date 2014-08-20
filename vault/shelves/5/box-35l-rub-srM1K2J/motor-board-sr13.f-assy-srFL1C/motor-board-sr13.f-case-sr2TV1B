@@ -1,10 +1,11 @@
-assetcode : 2NT1M
+assetcode : 2TV1B
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
-    A case for an SR11.F servo board.
+    A case for an SR13.F motor board. Made with design in 
+    4ae7d5293c5e5ce3b67a7ec6b5094b8614d4b2e4.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 14.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : unknown   # One of {unknown, working, broken}
