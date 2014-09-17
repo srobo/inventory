@@ -7,7 +7,7 @@ description: >
 
 purchasing_ticket : 0
 value             : 14.00
-condition         : working  # One of {unknown, working, broken}
+condition         : unknown  # One of {unknown, working, broken}
 
 # cased             : false     # Has the asset been put into a case
 
