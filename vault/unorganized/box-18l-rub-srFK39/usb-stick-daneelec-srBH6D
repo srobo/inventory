@@ -7,10 +7,11 @@ description: >
 
 purchasing_ticket : 0
 value             : 14.00
-condition         : unknown  # One of {unknown, working, broken}
+condition         : working  # One of {unknown, working, broken}
 
 # cased             : false     # Has the asset been put into a case
 
 # photos:
 #    - http://www.example.com/photo1.jpeg
 #    - http://www.example.com/photo2.jpeg
+serial: 001D92A5F5C45B880E0B01DF
