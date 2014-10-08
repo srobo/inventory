@@ -12,4 +12,4 @@ value             : 20.00     # A rough estimate of the value of the asset
 condition         : broken    # One of {unknown, working, broken}
 
 # The serial number of the webcam
-serial: F8E34110
+serial: "F8E34110"

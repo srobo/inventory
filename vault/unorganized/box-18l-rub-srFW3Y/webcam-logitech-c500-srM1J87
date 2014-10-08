@@ -10,7 +10,7 @@ value             : 20.00     # A rough estimate of the value of the asset
 condition         : working   # One of {unknown, working, broken}
 
 # The serial number of the webcam
-serial: 94B82B80
+serial: "94B82B80"
 
 photos:
     - http://www.flickr.com/photos/rspanton/4979645082/
