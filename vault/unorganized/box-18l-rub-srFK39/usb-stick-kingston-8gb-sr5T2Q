@@ -8,4 +8,4 @@ description: >
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 6.00      # A rough estimate of the value of the asset
 condition         : working   # One of {unknown, working, broken}
-serial: 001CC07CED72FCA0491423DD
+serial: "001CC07CED72FCA0491423DD"

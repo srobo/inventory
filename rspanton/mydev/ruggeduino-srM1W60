@@ -10,4 +10,4 @@ value             : 30.00      # A rough estimate of the value of the asset
 condition         : unknown   # One of {unknown, working, broken}
 development: true
 
-serial: 752303138333517171B1
+serial: "752303138333517171B1"

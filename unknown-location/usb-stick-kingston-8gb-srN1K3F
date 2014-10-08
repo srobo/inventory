@@ -9,4 +9,4 @@ purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 6.00      # A rough estimate of the value of the asset
 condition         : unknown   # One of {unknown, working, broken}
 
-serial: 60A44C413C91FD80BB4380A6
+serial: "60A44C413C91FD80BB4380A6"
