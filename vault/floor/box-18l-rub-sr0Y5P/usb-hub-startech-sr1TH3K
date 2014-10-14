@@ -1,0 +1,15 @@
+assetcode : 1TH3K
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+  A 7-port StarTech USB Hub
+  StarTech code ST7202USBGB
+  The USB-B port is missing the plastic bit that holds the pins in the right
+  place
+
+purchasing_ticket : 1882         # The trac ticket number of the purchase request
+value             : 10.74     # A rough estimate of the value of the asset
+condition         : broken   # One of {unknown, working, broken}
+
+development: false
