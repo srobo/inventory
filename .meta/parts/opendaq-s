@@ -1,0 +1,11 @@
+assetcode : [ASSET_CODE]
+labelled  : true
+revision  : 0
+serial    : ENTER SERIAL NUMBER
+
+description: >
+    An openDAQ[S] data acquisition device.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 157.14    # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
