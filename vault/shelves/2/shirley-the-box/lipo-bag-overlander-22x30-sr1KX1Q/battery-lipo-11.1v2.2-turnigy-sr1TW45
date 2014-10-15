@@ -1,4 +1,4 @@
-assetcode : 1UV44
+assetcode : 1TW45
 labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -13,4 +13,4 @@ description: >-
 
 purchasing_ticket : 1880
 value             : 6.24
-condition         : unknown   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
