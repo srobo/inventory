@@ -5,6 +5,8 @@ revision  : 0
 description: >
     A case for a Ruggeduino
 
+    Case is a bit knackered
+
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 0         # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
