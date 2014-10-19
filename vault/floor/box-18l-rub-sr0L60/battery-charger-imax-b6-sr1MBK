@@ -10,7 +10,9 @@ description: >
 
     Capable of charging LiPo, LiIon, NiMH, NiCD, Pb
 
+    Couldn't get it to supply current
+
 purchasing_ticket : 845       # The trac ticket number of the purchase request
 value             : 12.80     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
