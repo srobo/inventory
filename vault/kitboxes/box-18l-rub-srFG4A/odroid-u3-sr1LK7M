@@ -3,8 +3,8 @@ labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
-    An ODROID U3
+    An ODROID U3. Micro-SD card gives I/O errors.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 55.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken    # One of {unknown, working, broken}
