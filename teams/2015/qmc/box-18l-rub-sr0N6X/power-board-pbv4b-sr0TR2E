@@ -8,6 +8,9 @@ description: >
 
     Manufacured from power-v4-hw.git@4b211aed8e9071729ca3592868cb8989e450f00a
 
+    QMC have reported an issue with this board. It appears that the USB is not
+    working: https://www.studentrobotics.org/trac/ticket/2796
+
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 87.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
