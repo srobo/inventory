@@ -6,7 +6,9 @@ description: >
   A HobbyKing E4 battery charger.
   Capable of charging LiPo batteries.
 
+  Battery charger fine, but cable looks to have been welded via lipo
+
 purchasing_ticket : 1880         # The trac ticket number of the purchase request
 value             : 10.25     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
