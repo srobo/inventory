@@ -11,6 +11,8 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
+  During discharge testing the pack voltage dropped too low.
+
 purchasing_ticket : 1880
 value             : 6.24
 condition         : broken   # One of {unknown, working, broken}

@@ -11,6 +11,8 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
+  One cell measures 0V and another measures 2V.
+
 purchasing_ticket : 1880
 value             : 6.24
-condition         : unknown   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
