@@ -10,6 +10,8 @@ description: >
 
     Capable of charging LiPo, LiIon, NiMH, NiCD, Pb
 
+    Reports battery voltage error, cell connect. Looking at the cell voltage display shows that the middle cell reads 0V and the third cell reads ~5V.
+
 purchasing_ticket : 845       # The trac ticket number of the purchase request
 value             : 12.80     # A rough estimate of the value of the asset
 condition         : broken   # One of {unknown, working, broken}

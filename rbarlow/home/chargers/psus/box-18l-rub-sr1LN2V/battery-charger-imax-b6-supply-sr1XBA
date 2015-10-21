@@ -5,8 +5,6 @@ revision  : 0
 description: >
     A 12V 5A power adapter for use with the IMAX B6 battery charger.
 
-    Has a gouge scraped off the insulation of the figure-8 cable
-
 purchasing_ticket : 845       # The trac ticket number of the purchase request
 value             : 4.00      # A rough estimate of the value of the asset
-condition         : broken   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
