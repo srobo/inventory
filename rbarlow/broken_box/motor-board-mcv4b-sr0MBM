@@ -8,7 +8,7 @@ description: >
 
     Manufacured from motor-v4-hw.git:5f65b0142ffb1d64b8004d48a06754064a073697
 
-    Won't flash and won't drive motors
+    Won't flash and won't drive motors. Draws a lot of current. The case is also covered in tape residue.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 46.00     # A rough estimate of the value of the asset
