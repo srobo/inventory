@@ -1,0 +1,12 @@
+assetcode : 0RJ3M
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Verbatim PinStripe Store'n'Go 4GB USB memory stick. Black pinstripe.
+    Has a retractable USB plug.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 2.50      # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+
