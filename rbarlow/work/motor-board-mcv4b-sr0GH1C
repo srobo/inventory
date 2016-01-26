@@ -6,8 +6,16 @@ development : false
 description: >
     A revision b V4 motor board (MCv4b).
 
+    Apparently the board emmited smoke when setting the power to 100.
+    The motor connected had a stall current of 5A.
+    The M1 channel H-bridge IC appears to have slight scorch marks on it.
+    The STM32 has scorch marks and a small hole in it.
+    There is evidence of heating on the inside of the case above the STM32.
+
+    It's dead Jim.
+
     Manufacured from motor-v4-hw.git:5f65b0142ffb1d64b8004d48a06754064a073697
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 46.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
