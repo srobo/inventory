@@ -8,8 +8,12 @@ description: >
 
     Manufacured from servo-v4-hw.git@ac4ae795a11520f5d9e59d3ccbed351e1e067522
 
+    It has had a battery balance connector plugged into some of the servo output
+    pins. This has resulted in significant charring to the pins and further
+    unknown damage.
+
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 64.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 
 bootloader_version : 4.02
