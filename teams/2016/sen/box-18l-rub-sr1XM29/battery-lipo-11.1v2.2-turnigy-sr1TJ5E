@@ -11,6 +11,8 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
+  It has been shorted through the balance connector.
+
 purchasing_ticket : 1880
 value             : 6.24
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
