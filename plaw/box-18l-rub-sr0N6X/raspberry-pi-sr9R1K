@@ -1,0 +1,12 @@
+assetcode : 9R1K
+labelled  : true    # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+  Raspberry Pi 2011.12
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 30.00     # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+mac_address       : b8:27:eb:69:f2:04
+number            : 11
