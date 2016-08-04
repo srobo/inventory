@@ -16,3 +16,5 @@ condition: unknown
 #    - http://www.example.com/photo2.jpeg
 
 firmware: unknown
+
+physical_condition : unknown

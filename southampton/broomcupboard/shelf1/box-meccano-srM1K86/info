@@ -6,3 +6,5 @@ description: >
     Contains SR Tools and Stationary.
 
 elements:
+
+physical_condition : unknown

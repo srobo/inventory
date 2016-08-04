@@ -13,3 +13,5 @@ value             : 64.00     # A rough estimate of the value of the asset
 condition: unknown
 
 bootloader_version : 4.01
+
+physical_condition : unknown

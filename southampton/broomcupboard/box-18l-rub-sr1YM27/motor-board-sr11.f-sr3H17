@@ -15,3 +15,5 @@ climit_disabled   : true      # Has the current limit been disabled
 
 photos:
    - http://www.flickr.com/photos/rspanton/5406066865/
+
+physical_condition : unknown

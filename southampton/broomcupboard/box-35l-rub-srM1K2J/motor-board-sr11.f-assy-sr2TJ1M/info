@@ -7,3 +7,5 @@ description: >
 elements:
     - motor-board-sr11.f
     - motor-board-sr11.f-case
+
+physical_condition : unknown

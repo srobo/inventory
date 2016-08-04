@@ -7,3 +7,5 @@ description: >
 elements:
     - servo-board-sr13.f
     - servo-board-sr11.f-case
+
+physical_condition : unknown

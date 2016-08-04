@@ -12,3 +12,5 @@ condition: unknown
 has_headers       :  true
 
 firmware: unknown
+
+physical_condition : unknown

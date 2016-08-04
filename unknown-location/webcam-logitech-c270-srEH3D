@@ -11,3 +11,5 @@ condition: unknown
 
 # The serial number of the webcam
 serial: "FED69C10"
+
+physical_condition : unknown

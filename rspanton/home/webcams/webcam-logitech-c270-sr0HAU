@@ -11,3 +11,5 @@ condition: unknown
 
 # The serial number of the webcam
 serial: "F64A8410"
+
+physical_condition : unknown

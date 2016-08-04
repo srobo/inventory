@@ -15,3 +15,5 @@ value             : 85.00     # A rough estimate of the value of the asset
 condition: unknown
 
 has_headers       : true    # Does the beagleboard have the expansion/LCD headers soldered on
+
+physical_condition : unknown

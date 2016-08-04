@@ -20,3 +20,5 @@ firmware          : 2012-rc2
 #    - http://www.example.com/photo2.jpeg
 
 firmware          : sr2014-ship
+
+physical_condition : unknown

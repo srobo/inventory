@@ -13,3 +13,5 @@ value             : 15.00     # A rough estimate of the value of the asset
 condition: unknown
 
 dremel-mod        : false
+
+physical_condition : unknown

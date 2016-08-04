@@ -5,3 +5,5 @@ description: >
     A 35l "Really Useful Box" containing old 2011 parts, some usable (e.g. USB ports).
 
 elements:
+
+physical_condition : unknown

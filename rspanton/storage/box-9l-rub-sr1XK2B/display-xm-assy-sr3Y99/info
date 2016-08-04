@@ -8,3 +8,5 @@ elements:
     - doghouse-xm
     - beagleboard-xm-c
     - sdmicro-card-4gb
+
+physical_condition : unknown

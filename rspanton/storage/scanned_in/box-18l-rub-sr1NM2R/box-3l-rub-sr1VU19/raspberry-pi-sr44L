@@ -10,3 +10,5 @@ value             : 30.00     # A rough estimate of the value of the asset
 condition: unknown
 mac_address       : b8:27:eb:ed:f2:77
 number            : 6
+
+physical_condition : unknown

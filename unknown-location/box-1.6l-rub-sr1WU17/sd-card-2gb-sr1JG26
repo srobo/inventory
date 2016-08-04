@@ -11,3 +11,5 @@ condition: unknown
 
 # The serial number of the SD card
 serial: "0x7ac2b5c9"
+
+physical_condition : unknown

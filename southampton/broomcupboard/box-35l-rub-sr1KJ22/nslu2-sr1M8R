@@ -14,3 +14,5 @@ umbilical         : false     # Has the slug been fitted with an umbilical
 # photos:
 #    - http://www.example.com/photo1.jpeg
 #    - http://www.example.com/photo2.jpeg
+
+physical_condition : unknown

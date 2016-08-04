@@ -11,3 +11,5 @@ condition: unknown
 development: true
 
 serial: "752303138333517171B1"
+
+physical_condition : unknown

@@ -7,3 +7,5 @@ description: >
 elements:
     - motor-board-mcv4b
     - motor-board-mcv4b-case
+
+physical_condition : unknown

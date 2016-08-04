@@ -10,3 +10,5 @@ value             : 30.00      # A rough estimate of the value of the asset
 condition: unknown
 
 serial: "75230313833351712011"
+
+physical_condition : unknown

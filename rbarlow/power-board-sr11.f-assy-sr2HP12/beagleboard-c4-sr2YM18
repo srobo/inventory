@@ -18,3 +18,5 @@ has_headers       :  false    # Does the beagleboard have the expansion/LCD head
 #    - http://www.example.com/photo2.jpeg
 
 firmware: unknown
+
+physical_condition : unknown

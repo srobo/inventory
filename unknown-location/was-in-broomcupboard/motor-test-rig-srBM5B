@@ -15,3 +15,5 @@ condition: unknown
 # photos:
 #    - http://www.example.com/photo1.jpeg
 #    - http://www.example.com/photo2.jpeg
+
+physical_condition : unknown

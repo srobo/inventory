@@ -9,3 +9,5 @@ purchasing_ticket : 1961         # The trac ticket number of the purchase reques
 value             : 0.71      # A rough estimate of the value of the asset
 condition: unknown
 development: false
+
+physical_condition : unknown

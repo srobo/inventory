@@ -5,3 +5,5 @@ description: >
     A 35l "Really Useful Box" containing arena assembly stuff.
 
 elements:
+
+physical_condition : unknown

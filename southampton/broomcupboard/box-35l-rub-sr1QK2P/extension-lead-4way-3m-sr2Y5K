@@ -12,3 +12,5 @@ condition: unknown
 pat-test-expiry   : YYYY-MM-DD # Date PAT testing is required again
 supplier          : farnell
 part_number       : 5078234
+
+physical_condition : unknown

@@ -12,3 +12,5 @@ condition: unknown
 has_headers       :  true    # Does the beagleboard have the expansion/LCD headers soldered on
 
 firmware : sr2014-ship
+
+physical_condition : unknown

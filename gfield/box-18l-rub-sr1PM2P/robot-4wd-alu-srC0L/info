@@ -17,3 +17,5 @@ elements:
      - webcam-logitech-c500
      - usb-hub-toshiba-4-port-mini
      - usb-stick
+
+physical_condition : unknown

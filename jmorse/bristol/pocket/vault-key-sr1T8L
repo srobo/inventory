@@ -7,3 +7,5 @@ description: >
 
 value             : 0
 condition: unknown
+
+physical_condition : unknown

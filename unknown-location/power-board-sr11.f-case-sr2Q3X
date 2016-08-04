@@ -14,3 +14,5 @@ value             : 15.00     # A rough estimate of the value of the asset
 condition: unknown
 # B needs replacing
 dremel-mod        : true      # Has this case received the host-usb dremel mod
+
+physical_condition : unknown

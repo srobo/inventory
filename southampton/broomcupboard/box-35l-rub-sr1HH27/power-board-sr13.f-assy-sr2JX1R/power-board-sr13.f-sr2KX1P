@@ -19,3 +19,5 @@ essential-mods:               # mods that are required
 
 non-essential-mods:           # mods that are optional
 
+
+physical_condition : unknown

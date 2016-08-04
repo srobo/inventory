@@ -13,3 +13,5 @@ condition: unknown
 
 # This is a spare inventory, single parts don't have assetcodes, it just represents the number of spare parts that is still available.
 # photos:
+
+physical_condition : unknown

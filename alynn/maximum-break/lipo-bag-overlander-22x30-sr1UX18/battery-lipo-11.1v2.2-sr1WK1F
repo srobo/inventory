@@ -20,3 +20,5 @@ value             : 11.23
 condition: unknown
 
 velcro-attached : false
+
+physical_condition : unknown

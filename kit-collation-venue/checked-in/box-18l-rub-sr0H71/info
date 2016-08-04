@@ -8,3 +8,5 @@ description: >
     Contains USB cables (mini USB)
 
 elements:
+
+physical_condition : unknown

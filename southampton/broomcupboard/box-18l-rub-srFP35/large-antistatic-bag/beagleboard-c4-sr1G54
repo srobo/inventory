@@ -14,3 +14,5 @@ has_headers       :  true    # Does the beagleboard have the expansion/LCD heade
 # cased             : false     # Has the asset been put into a case
 
 firmware: unknown
+
+physical_condition : unknown

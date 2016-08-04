@@ -6,3 +6,5 @@ description: >
     Contains test adaptors.
 
 elements:
+
+physical_condition : unknown

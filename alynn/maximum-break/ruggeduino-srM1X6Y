@@ -12,3 +12,5 @@ value             : 30.00      # A rough estimate of the value of the asset
 condition: unknown
 development: true
 
+
+physical_condition : unknown

@@ -17,3 +17,5 @@ condition: unknown
 
 velcro-attached : false
 connector: XT60
+
+physical_condition : unknown

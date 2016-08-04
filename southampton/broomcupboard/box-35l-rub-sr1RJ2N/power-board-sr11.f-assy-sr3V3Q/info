@@ -9,3 +9,5 @@ elements:
     - power-board-sr11.f-case
     - beagleboard-c4
     - lcd-display
+
+physical_condition : unknown

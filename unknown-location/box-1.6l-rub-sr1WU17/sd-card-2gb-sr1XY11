@@ -10,3 +10,5 @@ value             : 0.00      # A rough estimate of the value of the asset
 condition: unknown
 
 serial: "0x77f705aa"
+
+physical_condition : unknown

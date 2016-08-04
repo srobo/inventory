@@ -15,3 +15,5 @@ condition: unknown
 
 dremel-mod        : true      # Has this case received the host-usb dremel mod
 clean: true
+
+physical_condition : unknown

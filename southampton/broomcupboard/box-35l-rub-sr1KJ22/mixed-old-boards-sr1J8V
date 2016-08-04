@@ -9,3 +9,5 @@ description: >
 
 value             : 0.00
 condition: unknown
+
+physical_condition : unknown

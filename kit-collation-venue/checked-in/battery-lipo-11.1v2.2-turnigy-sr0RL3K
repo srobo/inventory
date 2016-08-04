@@ -14,3 +14,5 @@ description: >-
 purchasing_ticket : 0
 value             : 6.24
 condition: unknown
+
+physical_condition : unknown

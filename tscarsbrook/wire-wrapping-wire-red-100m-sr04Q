@@ -10,3 +10,5 @@ value             : 8.00      # A rough estimate of the value of the asset
 condition: unknown
 supplier          : farnell
 part_number       : 1202477
+
+physical_condition : unknown

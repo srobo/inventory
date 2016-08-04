@@ -7,3 +7,5 @@ description: >
     This is full of case bits.
 
 elements:
+
+physical_condition : unknown

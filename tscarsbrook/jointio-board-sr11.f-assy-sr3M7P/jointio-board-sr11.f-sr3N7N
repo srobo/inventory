@@ -10,3 +10,5 @@ value             : 35.00     # A rough estimate of the value of the asset
 condition: unknown
 
 tested            : true      # Has the asset been tested
+
+physical_condition : unknown

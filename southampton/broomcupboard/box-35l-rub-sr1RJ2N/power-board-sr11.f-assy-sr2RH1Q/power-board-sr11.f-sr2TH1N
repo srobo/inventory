@@ -17,3 +17,5 @@ motor-rail-mod-1360 : true
 v-sense-move-1213 : true
 
 battery-aa-mod-1270 : true
+
+physical_condition : unknown

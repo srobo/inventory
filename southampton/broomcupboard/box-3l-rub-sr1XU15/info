@@ -5,3 +5,5 @@ description: >
     A 3l "Really Useful Box"
 
 elements:
+
+physical_condition : unknown

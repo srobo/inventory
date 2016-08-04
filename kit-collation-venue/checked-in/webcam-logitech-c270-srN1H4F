@@ -11,3 +11,5 @@ condition: unknown
 
 # The serial number of the webcam
 serial: "5F0FE850"
+
+physical_condition : unknown

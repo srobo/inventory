@@ -12,3 +12,5 @@ condition: unknown
 has_headers       :  true    # Does the beagleboard have the expansion/LCD headers soldered on
 
 firmware: unknown
+
+physical_condition : unknown

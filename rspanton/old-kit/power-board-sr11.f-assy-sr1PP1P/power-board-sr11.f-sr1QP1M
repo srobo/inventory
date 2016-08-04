@@ -18,3 +18,5 @@ v-sense-move-1213 : true
 battery-aa-mod-1270 : false
 
 development: true
+
+physical_condition : unknown

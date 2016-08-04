@@ -5,3 +5,5 @@ description: >
     A 9l "Really Useful Box", currently assembled as an SR2012 bucket.
 
 elements:
+
+physical_condition : unknown

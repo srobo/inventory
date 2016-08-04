@@ -8,3 +8,5 @@ description: >
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 0
 condition: unknown
+
+physical_condition : unknown
