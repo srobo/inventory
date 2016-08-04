@@ -7,7 +7,7 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition: unknown
 
 tvs-mod-698       : true      # Has TVS diode mod 698 been applied?
 

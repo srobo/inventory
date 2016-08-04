@@ -9,7 +9,7 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 70.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition: unknown
 
 emails:
     - http://groups.google.com/group/srobo/browse_thread/thread/9d83662a2d605455/

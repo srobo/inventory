@@ -8,4 +8,4 @@ description: >
     Weighs 2.5kg
 
 value             : 0.00
-condition         : unknown   # One of {unknown, working, broken}
+condition: unknown

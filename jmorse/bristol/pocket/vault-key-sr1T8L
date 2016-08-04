@@ -6,4 +6,4 @@ description: >
     The key to the vault.
 
 value             : 0
-condition         : broken
+condition: unknown

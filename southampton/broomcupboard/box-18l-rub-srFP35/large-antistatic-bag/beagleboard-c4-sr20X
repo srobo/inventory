@@ -7,7 +7,7 @@ description: >
 
 purchasing_ticket : 536       # The trac ticket number of the purchase request
 value             : 85.00     # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition: unknown
 
 # cased             : false     # Has the asset been put into a case
 

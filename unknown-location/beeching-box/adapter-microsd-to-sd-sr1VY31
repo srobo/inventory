@@ -7,5 +7,5 @@ description: >
 
 purchasing_ticket : 1961         # The trac ticket number of the purchase request
 value             : 0.71      # A rough estimate of the value of the asset
-condition         : working   # One of {unknown, working, broken}
+condition: unknown
 development: false

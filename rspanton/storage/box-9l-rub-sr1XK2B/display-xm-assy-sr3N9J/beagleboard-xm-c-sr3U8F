@@ -7,7 +7,7 @@ description: >
 
 purchasing_ticket : 1134      # The trac ticket number of the purchase request
 value             : 144.00    # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition: unknown
 
 has_headers       :  true     # Does the beagleboard have the expansion/LCD headers soldered on
 

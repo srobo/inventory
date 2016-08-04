@@ -5,9 +5,9 @@ revision  : 0
 description: >
     A MSP430 Flash Emulation Tool. Used for debugging/programming MSP430
     microcontrollers. It includes a 14-way ribbon cable and USB A-B cable.
-    This is of debateable condition: it can often program msp430s, but often
+    This is of debateablecondition: unknown
     randomly times out while programming.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 75.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
+condition: unknown

@@ -7,6 +7,6 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 0.00      # A rough estimate of the value of the asset
-condition         : working
+condition: unknown
 
 serial: "0x77f705aa"
