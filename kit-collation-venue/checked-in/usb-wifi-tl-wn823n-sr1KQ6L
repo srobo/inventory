@@ -7,8 +7,8 @@ description: >
 
 purchasing_ticket : 2614         # The trac ticket number of the purchase request
 value             : 10.44     # A rough estimate of the value of the asset
-condition: unknown
+condition: working
 
-physical_condition : unknown
+physical_condition: working
 
-mac : null
+mac: "e8:de:27:1c:99:c5"
