@@ -14,4 +14,4 @@ condition: unknown
 
 bootloader_version : unknown
 
-physical_condition : unknown
+physical_condition: working
