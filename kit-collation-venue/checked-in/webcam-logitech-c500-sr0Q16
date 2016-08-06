@@ -7,7 +7,7 @@ description: >
 
 purchasing_ticket : 535       # The trac ticket number of the purchase request
 value             : 20.00     # A rough estimate of the value of the asset
-condition: unknown
+condition: working
 
 
 photos:
@@ -16,4 +16,4 @@ photos:
 
 physical_condition: working
 
-serial : null
+serial: "D8D6E480"
