@@ -18,4 +18,4 @@ condition: unknown
 
 # infrequent connection errors
 
-physical_condition : unknown
+physical_condition: working
