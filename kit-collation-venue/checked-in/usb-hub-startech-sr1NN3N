@@ -8,7 +8,7 @@ description: >
 
 purchasing_ticket : 1882         # The trac ticket number of the purchase request
 value             : 10.74     # A rough estimate of the value of the asset
-condition: unknown
+condition: working
 
 development: true
 
