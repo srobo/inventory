@@ -15,4 +15,4 @@ value             : 12.80     # A rough estimate of the value of the asset
 condition: unknown
 
 
-physical_condition: broken
+physical_condition: working
