@@ -12,4 +12,4 @@ condition: unknown
 # The serial number of the webcam
 serial: 
 
-physical_condition : unknown
+physical_condition: working
