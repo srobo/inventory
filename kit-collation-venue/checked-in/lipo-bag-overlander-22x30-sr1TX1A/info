@@ -10,6 +10,6 @@ description: >
 elements:
 
 
-condition: unknown
+condition: working
 
-physical_condition : unknown
+physical_condition: working

@@ -8,6 +8,6 @@ description: >
 
 elements:
 
-physical_condition : unknown
+physical_condition: working
 
-condition : unknown
+condition: working
