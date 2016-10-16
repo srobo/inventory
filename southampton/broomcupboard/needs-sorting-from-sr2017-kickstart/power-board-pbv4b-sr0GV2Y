@@ -8,9 +8,11 @@ description: >
 
     Manufacured from power-v4-hw.git@4b211aed8e9071729ca3592868cb8989e450f00a
 
+    Power connector only works at certain angles, the wires are loose at the plug-end
+
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 87.00     # A rough estimate of the value of the asset
-condition: working
+condition: broken
 
 bootloader_version : unknown
 
