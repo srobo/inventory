@@ -5,9 +5,11 @@ revision  : 0
 description: >
     A Rugged Circuits Ruggeduino http://ruggedcircuits.com/html/ruggeduino.html
 
+    12V put into GPIO pins, might still work, needs testing
+
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 30.00      # A rough estimate of the value of the asset
-condition: working
+condition: Unknown
 
 serial: "7523031383335161C171"
 
