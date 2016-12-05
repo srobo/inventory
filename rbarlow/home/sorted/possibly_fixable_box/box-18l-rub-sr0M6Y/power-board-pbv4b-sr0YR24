@@ -8,12 +8,10 @@ description: >
 
     Manufacured from power-v4-hw.git@4b211aed8e9071729ca3592868cb8989e450f00a
 
-    No fan, doesn't seem to boot.
-
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 87.00     # A rough estimate of the value of the asset
-condition: broken
+condition: working
 
 bootloader_version : unknown
 
-physical_condition: broken
+physical_condition: working
