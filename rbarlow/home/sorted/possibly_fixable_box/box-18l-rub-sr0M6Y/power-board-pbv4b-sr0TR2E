@@ -11,6 +11,9 @@ description: >
     QMC have reported an issue with this board. It appears that the USB is not
     working: https://www.studentrobotics.org/trac/ticket/2796
 
+    It does not enumerate. I have tried reflashing it and it is still broken.
+    It does not turn the fan on or play the firmware version beeps.
+
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 87.00     # A rough estimate of the value of the asset
 condition: broken
