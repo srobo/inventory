@@ -1,0 +1,13 @@
+assetcode : 2VG2H
+revision  : 0
+
+description: >
+    Power board assembly
+
+elements:
+    - power-board-sr13.f
+    - power-board-sr13.f-case
+    - beagleboard-c5
+    - lcd-display
+
+physical_condition : unknown
