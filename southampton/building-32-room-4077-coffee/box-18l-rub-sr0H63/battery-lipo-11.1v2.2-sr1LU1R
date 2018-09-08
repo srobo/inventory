@@ -13,9 +13,9 @@ description: >-
 
 purchasing_ticket : 0
 value             : 11.23
-condition: working
+condition: unknown
 
 velcro-attached : false
 connector: XT60
 
-physical_condition: working
+physical_condition: unknown
