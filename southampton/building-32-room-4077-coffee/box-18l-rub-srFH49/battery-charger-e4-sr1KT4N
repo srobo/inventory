@@ -1,0 +1,14 @@
+assetcode : 1KT4N
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+  A HobbyKing E4 battery charger.
+  Capable of charging LiPo batteries.
+
+purchasing_ticket : 1880         # The trac ticket number of the purchase request
+value             : 10.25     # A rough estimate of the value of the asset
+condition: unknown
+
+
+physical_condition: unknown
