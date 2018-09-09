@@ -7,6 +7,7 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 55.00     # A rough estimate of the value of the asset
-condition: unknown
+condition: broken  # Works with a Micro SD card from another Odroid;
+                   # likely fixable by re-imaging
 
-physical_condition : unknown
+physical_condition : working
