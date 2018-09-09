@@ -12,4 +12,4 @@ condition: broken
 # The serial number of the webcam
 serial: "766FE850"
 
-physical_condition: working
+physical_condition: broken
