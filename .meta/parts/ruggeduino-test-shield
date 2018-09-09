@@ -1,0 +1,15 @@
+assetcode : [ASSET_CODE]
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Test shield for checking that Ruggeduinos function as desired.
+    Consists of a standard Arduino Proto Shield which has been modified
+    such that resistors connect all the pins together, plus an LED to signal
+    that the self-test passed.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 20.00     # A rough estimate of the value of the asset
+
+condition         : unknown   # One of {unknown, working, broken}
+physical_condition: unknown   # One of {unknown, working, broken}
