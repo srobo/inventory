@@ -3,6 +3,13 @@ revision  : 0
 
 description: >
     An 18l Really Useful Box (http://www.reallyusefulproducts.co.uk/uk/html/onlineshop/rub/b18_0litre.php)
+    Currently contains:
+      * Bag, 242 motor CamCons
+      * Bag, 29 motor CamCons
+      * Bag, 130 motor CamCons
+      * Bag, 126 motor CamCons
+      * Bag, 150 motor CamCons
+      * Bag, 175 motor CamCons
 
 elements:
     - jointio-board-sr11.f-assy
