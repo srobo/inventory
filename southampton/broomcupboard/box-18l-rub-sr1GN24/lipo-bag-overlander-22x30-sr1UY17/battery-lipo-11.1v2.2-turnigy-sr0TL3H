@@ -13,6 +13,6 @@ description: >-
 
 purchasing_ticket : 0
 value             : 6.24
-condition: unknown
+condition: working
 
-physical_condition: unknown
+physical_condition: working
