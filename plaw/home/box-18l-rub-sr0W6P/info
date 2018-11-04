@@ -4,6 +4,6 @@ revision  : 0
 description: >
     An 18l Really Useful Box (http://www.reallyusefulproducts.co.uk/uk/html/onlineshop/rub/b18_0litre.php)
 
-elements:
+elements: # contains wire left over from previous years in various lengths
 
 physical_condition : unknown
