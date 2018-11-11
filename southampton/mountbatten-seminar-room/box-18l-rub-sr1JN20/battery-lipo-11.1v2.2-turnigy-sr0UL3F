@@ -15,4 +15,5 @@ purchasing_ticket : 0
 value             : 6.24
 condition: working
 
-physical_condition: working
+# Loose ground connection - power board turns off and on if you wiggle the wire.
+physical_condition: broken
