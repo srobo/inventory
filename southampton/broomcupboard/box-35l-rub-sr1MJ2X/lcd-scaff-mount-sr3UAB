@@ -4,10 +4,9 @@ revision  : 0
 
 description: >
     Scaffold mount to hold LCD monitors.
-    Missing screws.
 
 purchasing_ticket : 1134      # The trac ticket number of the purchase request
 value             : 16.38     # A rough estimate of the value of the asset
-condition: unknown
+condition: working
 
 physical_condition : unknown
