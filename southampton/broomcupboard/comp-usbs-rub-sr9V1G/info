@@ -1,0 +1,16 @@
+assetcode : 9V1G
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A 1.6L RUB with 32 competition-mode USB sticks in;
+    four for each corner of two areans.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 100.00     # A rough estimate of the cost of replacing the asset
+condition         : working   # One of {unknown, working, broken}
+physical_condition: working   # One of {unknown, working, broken}
+
+elements:
+  - 24 competition mode usb sticks with keychains
+  - 8 competition mode usb sticks without keychains
