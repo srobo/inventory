@@ -3,7 +3,7 @@ labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
-  Raspberry Pi with camera
+  Raspberry Pi 3 Model B with camera
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 30.00     # A rough estimate of the value of the asset
