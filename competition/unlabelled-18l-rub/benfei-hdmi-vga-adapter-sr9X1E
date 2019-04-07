@@ -1,0 +1,18 @@
+assetcode : 9X1E
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A Benfei HDMI to VGA adapter
+    https://www.amazon.co.uk/Gold-Plated-Computer-Projector-Chromebook-Raspberry-HDMI-VGA-Adapter/dp/B07F6XXTH8/
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 5.50      # A rough estimate of the value of the asset
+condition         : working
+physical_condition: working
+
+# cased             : false     # Has the asset been put into a case
+
+# photos:
+#    - http://www.example.com/photo1.jpeg
+#    - http://www.example.com/photo2.jpeg
