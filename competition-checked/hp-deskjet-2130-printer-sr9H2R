@@ -1,0 +1,13 @@
+assetcode : 9H2R
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A HP Deskjet 2130 colour printer.
+    This is typically used at the competition for printing shepherding
+    sheets and sundry items.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 30.00     # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+physical_condition: working   # One of {unknown, working, broken}
