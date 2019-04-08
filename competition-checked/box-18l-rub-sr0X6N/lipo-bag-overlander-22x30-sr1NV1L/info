@@ -1,5 +1,6 @@
 assetcode : 1NV1L
 revision  : 0
+labelled  : true
 
 description: >
     An Overlander Lipo Safe Sack.
@@ -8,6 +9,6 @@ description: >
 
 elements:
 
-physical_condition : unknown
+physical_condition : working
 
-condition : unknown
+condition : working
