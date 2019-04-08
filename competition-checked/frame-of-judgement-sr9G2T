@@ -1,0 +1,13 @@
+assetcode : 9G2T
+labelled  : true  # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A frame for measuring the size of robots at the competition.
+    It is made from wood and disassembles into two parts - a handle
+    and a base.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0.00      # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+physical_condition: working   # One of {unknown, working, broken}
