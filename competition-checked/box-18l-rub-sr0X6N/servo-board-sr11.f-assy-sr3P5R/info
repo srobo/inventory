@@ -8,4 +8,5 @@ elements:
     - servo-board-sr11.f
     - servo-board-sr11.f-case
 
-physical_condition : unknown
+physical_condition : working
+condition: unknown
