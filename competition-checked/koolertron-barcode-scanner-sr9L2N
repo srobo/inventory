@@ -1,0 +1,14 @@
+assetcode : 9L2N
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A Koolertron Bluetooth Barcode Scanner
+    https://www.amazon.co.uk/Bluetooth-Koolertron-Wireless-Maxicode-Automatically/dp/B0716PPS8S
+
+    Includes a mini USB cable and a USB bluetooth adapter.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 74.99     # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+physical_condition: working   # One of {unknown, working, broken}
