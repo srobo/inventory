@@ -1,0 +1,11 @@
+assetcode : 9Q2J
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A while 1.7L kettle.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0.00      # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+physical_condition: working   # One of {unknown, working, broken}

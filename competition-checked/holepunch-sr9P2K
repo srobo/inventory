@@ -1,0 +1,13 @@
+assetcode : 9P2K
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A black holepunch.
+
+    Often useful at the competition for holepunching score-sheets.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0.00      # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+physical_condition: working   # One of {unknown, working, broken}
