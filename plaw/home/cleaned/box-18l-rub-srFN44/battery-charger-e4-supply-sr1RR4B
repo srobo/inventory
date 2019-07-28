@@ -1,4 +1,4 @@
-assetcode : 1WR43
+assetcode : 1RR4B
 labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -9,4 +9,4 @@ purchasing_ticket : 1991         # The trac ticket number of the purchase reques
 value             : 7.8       # A rough estimate of the value of the asset
 condition: unknown
 
-physical_condition: unknown
+physical_condition: working
