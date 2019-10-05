@@ -1,4 +1,4 @@
-assetcode : 1VP39
+assetcode : 1MQ3N
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -12,4 +12,4 @@ condition: unknown
 
 development: false
 
-physical_condition: broken
+physical_condition: unknown
