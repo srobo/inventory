@@ -4,6 +4,7 @@ revision  : 0
 
 description: >
     A Logitech C500 1.3 Megapixel USB webcam with detachable base.
+    USB plug is deformed.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 20.00     # A rough estimate of the value of the asset
@@ -14,6 +15,6 @@ photos:
     - http://www.flickr.com/photos/rspanton/4979645082/
     - http://www.flickr.com/photos/rspanton/4979036615/
 
-physical_condition : working
+physical_condition : broken
 
 serial : null
