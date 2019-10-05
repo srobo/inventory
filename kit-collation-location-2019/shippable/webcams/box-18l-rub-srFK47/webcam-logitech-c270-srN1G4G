@@ -1,4 +1,4 @@
-assetcode : M1J95
+assetcode : N1G4G
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -7,9 +7,9 @@ description: >
 
 purchasing_ticket : 1371      # The trac ticket number of the purchase request
 value             : 20.00     # A rough estimate of the value of the asset
-condition: unknown
+condition: working
 
 # The serial number of the webcam
-serial: "985151A0"
+serial: "B5A45A50"
 
 physical_condition: working

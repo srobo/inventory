@@ -1,4 +1,4 @@
-assetcode : EL3A
+assetcode : EW31
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -7,9 +7,8 @@ description: >
 
 purchasing_ticket : 1371      # The trac ticket number of the purchase request
 value             : 20.00     # A rough estimate of the value of the asset
-condition: unknown
-
-# The serial number of the webcam
-serial: "C111AC10"
+condition: working
 
 physical_condition: working
+
+serial: "CD90AC10"
