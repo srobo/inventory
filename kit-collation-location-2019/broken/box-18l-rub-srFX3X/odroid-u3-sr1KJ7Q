@@ -1,12 +1,13 @@
-assetcode : 1KL7N
+assetcode : 1KJ7Q
 labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
     An ODROID U3
+    Damaged USB port
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 55.00     # A rough estimate of the value of the asset
-condition: broken
+condition: unknown
 
-physical_condition: working
+physical_condition: broken
