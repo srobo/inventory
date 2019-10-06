@@ -1,4 +1,4 @@
-assetcode : 1MFB
+assetcode : 1MED
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -14,4 +14,5 @@ purchasing_ticket : 845       # The trac ticket number of the purchase request
 value             : 12.80     # A rough estimate of the value of the asset
 condition: unknown
 
-physical_condition: working
+
+physical_condition: unknown   # "Stop" button is not attached and falls out easily

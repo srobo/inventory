@@ -1,4 +1,4 @@
-assetcode : 1XC8
+assetcode : 1VF4
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -7,6 +7,6 @@ description: >
 
 purchasing_ticket : 845       # The trac ticket number of the purchase request
 value             : 4.00      # A rough estimate of the value of the asset
-condition: broken
+condition: unknown
 
-physical_condition: working
+physical_condition: unknown

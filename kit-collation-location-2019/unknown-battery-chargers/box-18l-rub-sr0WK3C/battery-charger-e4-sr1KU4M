@@ -1,4 +1,4 @@
-assetcode : 1QU4B
+assetcode : 1KU4M
 labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -11,4 +11,4 @@ value             : 10.25     # A rough estimate of the value of the asset
 condition: unknown
 
 
-physical_condition: broken  # Cable tie almost broken
+physical_condition: unknown  # No heatshrink on battery connector.
