@@ -3,7 +3,7 @@ labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
-    A short description of the asset
+    Used for testing the outputs on a power board
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 0.00      # A rough estimate of the value of the asset
