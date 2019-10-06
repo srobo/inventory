@@ -1,5 +1,5 @@
-assetcode : 1LT3N
-labelled  : true   # Does the asset have its assetcode marked on it
+assetcode : 2QL2M
+labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
@@ -14,4 +14,4 @@ value             : 3.17      # A rough estimate of the value of the asset
 condition: working
 
 
-physical_condition: unknown
+physical_condition : working
