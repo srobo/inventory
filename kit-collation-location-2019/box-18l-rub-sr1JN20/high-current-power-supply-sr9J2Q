@@ -6,6 +6,8 @@ description: >
     A HP switching power supply model DPS-600P B which has a high current
     output, such that it can be used for testing the current limits of
     our power boards without needing to use a battery.
+    
+    Has a loose wire from the switch. Purpose unknown.
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 10.00     # A rough estimate of the value of the asset
