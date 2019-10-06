@@ -1,15 +1,14 @@
-assetcode : 1JV2T
+assetcode : 1ML3T
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
   A 7-port StarTech USB Hub
   StarTech code ST7202USBGB
-  USB devices do not show up.
 
 purchasing_ticket : 1882         # The trac ticket number of the purchase request
 value             : 10.74     # A rough estimate of the value of the asset
-condition: broken
+condition: unknown
 
 
-physical_condition: broken
+physical_condition: unknown
