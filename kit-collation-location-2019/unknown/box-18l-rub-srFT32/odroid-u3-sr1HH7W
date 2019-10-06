@@ -1,12 +1,13 @@
-assetcode : 1LK7M
+assetcode : 1HH7W
 labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
-    An ODROID U3. Micro-SD card gives I/O errors.
+    An ODROID U3
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 55.00     # A rough estimate of the value of the asset
-condition: broken
+condition: unknown  # Works with a Micro SD card from another Odroid;
+                   # likely fixable by re-imaging
 
-physical_condition: broken
+physical_condition : unknown

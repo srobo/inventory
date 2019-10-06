@@ -1,15 +1,15 @@
-assetcode : EN38
+assetcode : N1Y33
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
-    A Logitech C270 USB webcam.
+    A Logitech C270 USB webcam. Known to have one column of dead pixels.
 
 purchasing_ticket : 1371      # The trac ticket number of the purchase request
 value             : 20.00     # A rough estimate of the value of the asset
-condition: broken
+condition: unknown
 
 # The serial number of the webcam
-serial: "02244110"
+serial: "766FE850"
 
-physical_condition: broken
+physical_condition: unknown
