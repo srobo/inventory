@@ -9,9 +9,11 @@ description: >
     plugs in the headers down the side of the *duino that has the
     *duino's power connector on.
 
+    Something stuck in one of the sockets.
+
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 3.17      # A rough estimate of the value of the asset
 condition: unknown
 
 
-physical_condition: unknown
+physical_condition: broken
