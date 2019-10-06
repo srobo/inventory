@@ -1,4 +1,4 @@
-assetcode : 1RDB
+assetcode : 1WAD
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -10,9 +10,12 @@ description: >
 
     Capable of charging LiPo, LiIon, NiMH, NiCD, Pb
 
+    This did have a screw rattling around inside it underneath the PCB. I've (RB) removed it and tested it again.
+
 purchasing_ticket : 845       # The trac ticket number of the purchase request
 value             : 12.80     # A rough estimate of the value of the asset
-condition: unknown
+condition: working
 
+# infrequent connection errors
 
 physical_condition: working
