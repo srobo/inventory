@@ -1,5 +1,5 @@
-assetcode : 0UL3F
-labelled  : true   # Does the asset have its assetcode marked on it
+assetcode : 1HW4P
+labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >-
@@ -11,9 +11,8 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
-purchasing_ticket : 0
+purchasing_ticket : 1880
 value             : 6.24
-condition: unknown
+condition: working
 
-# Loose ground connection - power board turns off and on if you wiggle the wire.
-physical_condition: broken
+physical_condition : working

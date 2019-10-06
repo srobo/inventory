@@ -1,5 +1,5 @@
-assetcode : 0NL3R
-labelled  : true   # Does the asset have its assetcode marked on it
+assetcode : 1WH59
+labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >-
@@ -11,8 +11,8 @@ description: >-
   Balance plug: JST-XH
   Weight: 185g
 
-purchasing_ticket : 0
+purchasing_ticket : 1880
 value             : 6.24
-condition: unknown
+condition: working
 
 physical_condition: working
