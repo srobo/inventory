@@ -1,4 +1,4 @@
-assetcode : 0GBT
+assetcode : 0NCJ
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 development : false
@@ -10,6 +10,6 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 46.00     # A rough estimate of the value of the asset
-condition: working
+condition: unknown
 
-physical_condition: working
+physical_condition: unknown
