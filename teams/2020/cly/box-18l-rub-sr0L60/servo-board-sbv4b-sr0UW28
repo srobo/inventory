@@ -10,8 +10,8 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 64.00     # A rough estimate of the value of the asset
-condition: working  # dodgy USB connection (intermittent when inserting)
+condition: unknown  # dodgy USB connection (intermittent when inserting)
 
 bootloader_version : 4.02
 
-physical_condition: working
+physical_condition: unknown
