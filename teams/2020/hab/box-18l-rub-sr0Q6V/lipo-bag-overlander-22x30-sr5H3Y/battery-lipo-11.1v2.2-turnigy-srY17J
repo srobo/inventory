@@ -1,5 +1,5 @@
-assetcode : 0VM3C
-labelled  : true   # Does the asset have its assetcode marked on it
+assetcode : Y17J
+labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >-
@@ -13,6 +13,5 @@ description: >-
 
 purchasing_ticket : 0
 value             : 6.24
-condition: working
-
-physical_condition: working
+condition         : unknown   # One of {unknown, working, broken}
+physical_condition: unknown
