@@ -20,4 +20,5 @@ elements:
             - usb-stick-kingston-8gb
     - webcam-logitech-c500
 
-physical_condition : working
+physical_condition : unknown
+condition: unknown
