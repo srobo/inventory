@@ -1,5 +1,5 @@
-assetcode : 1MG5T
-labelled  : false   # Does the asset have its assetcode marked on it
+assetcode : 1VK59
+labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >-
@@ -13,6 +13,6 @@ description: >-
 
 purchasing_ticket : 1880
 value             : 6.24
-condition: working
+condition: unknown
 
-physical_condition : working
+physical_condition: unknown
