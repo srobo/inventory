@@ -1,0 +1,11 @@
+assetcode : Y1F2
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A key to the storage locker
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0.00      # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+physical_condition: unknown   # One of {unknown, working, broken}
