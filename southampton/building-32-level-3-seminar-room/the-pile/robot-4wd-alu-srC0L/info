@@ -19,3 +19,4 @@ elements:
      - usb-stick
 
 physical_condition : unknown
+condition: unknown

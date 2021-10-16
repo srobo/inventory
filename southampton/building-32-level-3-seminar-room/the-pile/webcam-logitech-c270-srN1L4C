@@ -7,9 +7,9 @@ description: >
 
 purchasing_ticket : 1371      # The trac ticket number of the purchase request
 value             : 20.00     # A rough estimate of the value of the asset
-condition: working
+condition: unknown
 
 # The serial number of the webcam
 serial: "492FE850"
 
-physical_condition: working
+physical_condition: unknown
