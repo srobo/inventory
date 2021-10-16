@@ -1,7 +1,7 @@
-assetcode : 0LQ2U
+assetcode : 0YW20
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
-development : true
+development : false
 
 description: >
     A revision b V4 servo board (SBv4b).
@@ -10,8 +10,8 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 64.00     # A rough estimate of the value of the asset
-condition: unknown
+condition: working
 
 bootloader_version : 4.02
 
-physical_condition: unknown
+physical_condition: working
