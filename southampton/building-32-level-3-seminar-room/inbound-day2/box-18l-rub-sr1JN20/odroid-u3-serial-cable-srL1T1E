@@ -1,0 +1,11 @@
+assetcode : L1T1E
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    USB micro to serial adapter to use with Odroid U3 boards
+    displays
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0         # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
