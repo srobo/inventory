@@ -1,0 +1,21 @@
+assetcode : 9T1J
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Kit of parts for testing the rugeduinos
+
+    Contents:
+
+    1* Test sheild
+    1* USB A-B cable
+
+    Test shield consists of a standard Arduino Proto Shield which has been modified
+    such that resistors connect all the pins together, plus an LED to signal
+    that the self-test passed.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 20.00     # A rough estimate of the value of the asset
+
+condition         : working   # One of {unknown, working, broken}
+physical_condition: working   # One of {unknown, working, broken}

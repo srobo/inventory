@@ -1,0 +1,20 @@
+assetcode : L1H1P
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Kit of cables and parts to test motor boards
+
+    Contents:
+
+    1* Micro USB cable
+    1* Power cable Fork termainals to 7.5mm Camcon connector
+    2* Small motors with 5mm camcon connectors
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0.00      # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+physical_condition: working   # One of {unknown, working, broken}
+
+# cased             : false     # Has the asset been put into a case
+

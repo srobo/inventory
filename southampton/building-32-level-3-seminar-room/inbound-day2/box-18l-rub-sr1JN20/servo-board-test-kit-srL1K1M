@@ -1,0 +1,17 @@
+assetcode : L1K1M
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Kit of parts to test a servo board
+
+    Contents:
+
+    1* servo
+    1* micro USB cable
+    1* power cable - dual 7.62mm camcon 
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0.00      # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+physical_condition: working   # One of {unknown, working, broken}

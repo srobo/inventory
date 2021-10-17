@@ -1,0 +1,21 @@
+assetcode : L1J1N
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Power board testing kit
+
+    Contents:
+
+    1* micro USB cable
+    2* 5mm camcon power jumper (need to be made better)
+    1* Power cable - XT60 male to 7.62mm camcon (needs ferrule crimps)
+    1* Power cable - XT60 male to stackable banana plugs
+    1* Power cable - 3.81mm camcon to banana plugs (missing banana plugs and ferrule crimps)
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 0.00      # A rough estimate of the value of the asset
+condition         : broken   # One of {unknown, working, broken}
+physical_condition: broken   # One of {unknown, working, broken}
+
+# cased             : false     # Has the asset been put into a case
