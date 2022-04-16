@@ -7,6 +7,6 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 30.00     # A rough estimate of the value of the asset
-condition         : unknown   # One of {unknown, working, broken}
-mac_address       : none      # MAC address of the pi
-number            : none      # Number of the pi, see comp/srcomp-kiosk/pi_macs
+condition         : working   # One of {unknown, working, broken}
+mac_address       : b8:27:eb:55:bb:a1      # MAC address of the pi
+number            : 3b3      # Number of the pi, see comp/srcomp-kiosk/pi_macs
