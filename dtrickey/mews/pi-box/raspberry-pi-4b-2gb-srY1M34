@@ -1,0 +1,10 @@
+assetcode : Y1M34
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+  Raspberry Pi 4B 2GB
+
+value             : 43.20     # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+mac_address       : none      # MAC address of the pi
