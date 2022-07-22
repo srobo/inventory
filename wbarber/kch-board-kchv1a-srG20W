@@ -1,0 +1,19 @@
+assetcode : G20W
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+development : false
+
+description: >
+    A revision a V1 KCH pi hat (KCHv1a).
+
+    Manufactured from kch-hw.git@0ca09dea7ad84e12de81f444bc081d1fe7e02814
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 13.00     # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+modifications:
+    - LEDs currents reduced
+    - WP header populated
+    - "Adjusted UVLO to 6.6V (R9: 33k)"
+    - Added Rboost
+    - Added extra HF input and output capacitance
