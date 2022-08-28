@@ -1,0 +1,14 @@
+assetcode : G2K2M
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+development : false
+
+description: >
+    A revision a V1 KCH pi hat (KCHv1b).
+
+    Manufactured from kch-hw.git@Revision-B
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 13.00     # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+initial_values: {"UVLO": {"rising": "7.9", "falling": "6.3"}, "Vout": {"@0A": "5.178", "@1A": "5.106", "@2A": "5.023", "@3A": "4.92"}}
