@@ -21,3 +21,4 @@ elements:
     - webcam-logitech-c500
 
 physical_condition : unknown
+condition: broken

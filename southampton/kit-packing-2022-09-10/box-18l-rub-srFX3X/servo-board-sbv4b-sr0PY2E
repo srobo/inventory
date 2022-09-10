@@ -1,4 +1,4 @@
-assetcode : 0NG3W
+assetcode : 0PY2E
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 development : false
@@ -10,8 +10,8 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 64.00     # A rough estimate of the value of the asset
-condition: failed
+condition: broken
 
 bootloader_version : 4.02
 
-physical_condition : failed
+physical_condition: failed
