@@ -1,0 +1,15 @@
+assetcode : G2H8B
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Half of a DFRobot Arduino-Compatible Screw Shield
+    
+    The screw shield comes in two parts.  This one is the part that
+    plugs in the headers down the side of the *duino that has the
+    *duino's power connector on.
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 3.17      # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+

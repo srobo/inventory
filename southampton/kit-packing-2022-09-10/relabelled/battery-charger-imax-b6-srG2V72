@@ -1,0 +1,16 @@
+assetcode : G2V72
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    An IMAX B6 battery charger and its:
+     - cardboard box
+     - associated battery cables
+     - manual
+
+    Capable of charging LiPo, LiIon, NiMH, NiCD, Pb
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 12.80     # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+

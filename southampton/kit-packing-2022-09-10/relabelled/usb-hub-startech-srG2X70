@@ -1,0 +1,12 @@
+assetcode : G2X70
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+  A 7-port StarTech USB Hub
+  StarTech code ST7202USBGB
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 10.74     # A rough estimate of the value of the asset
+condition         : unknown   # One of {unknown, working, broken}
+
