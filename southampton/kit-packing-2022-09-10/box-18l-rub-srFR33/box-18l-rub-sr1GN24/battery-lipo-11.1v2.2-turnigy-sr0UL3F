@@ -13,7 +13,7 @@ description: >-
 
 purchasing_ticket : 0
 value             : 6.24
-condition: unknown
+condition: working
 
 # Loose ground connection - power board turns off and on if you wiggle the wire.
-physical_condition: unknown
+physical_condition: working
