@@ -1,5 +1,5 @@
-assetcode : G2Q5A
-labelled  : false   # Does the asset have its assetcode marked on it
+assetcode : 1GT7N
+labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >-
@@ -13,4 +13,5 @@ description: >-
 
 purchasing_ticket : 0
 value             : 14.99
-condition         : unknown   # One of {unknown, working, broken}
+condition         : working   # One of {unknown, working, broken}
+physical_condition: working
