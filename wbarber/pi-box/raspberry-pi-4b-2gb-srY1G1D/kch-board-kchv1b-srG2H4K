@@ -12,3 +12,4 @@ purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 13.00     # A rough estimate of the value of the asset
 condition         : working   # One of {unknown, working, broken}
 initial_values: {"UVLO": {"rising": "7.9", "falling": "6.4"}, "Vout": {"@0A": "5.136", "@1A": "5.048", "@2A": "4.964", "@3A": "4.864"}}
+physical_condition: working
