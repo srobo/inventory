@@ -8,3 +8,4 @@ description: >
 value             : 43.20     # A rough estimate of the value of the asset
 condition         : unknown   # One of {unknown, working, broken}
 mac_address       : none      # MAC address of the pi
+elements: 
