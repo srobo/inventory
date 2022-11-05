@@ -16,4 +16,4 @@ purchasing_ticket : 845       # The trac ticket number of the purchase request
 value             : 12.80     # A rough estimate of the value of the asset
 condition: working
 
-physical_condition : working   # "Dec" button is not attached and falls out easily
+physical_condition : broken   # "Dec" button is missing
