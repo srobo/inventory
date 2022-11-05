@@ -7,6 +7,6 @@ description: >
 
 purchasing_ticket : 845       # The trac ticket number of the purchase request
 value             : 4.00      # A rough estimate of the value of the asset
-condition: working
+condition: unknown       # Marked by a school as PAT failed due to counterfeit plug & fuse
 
 physical_condition: working
