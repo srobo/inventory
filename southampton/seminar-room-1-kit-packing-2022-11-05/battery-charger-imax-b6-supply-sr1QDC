@@ -9,4 +9,4 @@ purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 4.00      # A rough estimate of the value of the asset
 condition: working
 
-physical_condition : working
+physical_condition : broken  # rattles & damaged DC cable
