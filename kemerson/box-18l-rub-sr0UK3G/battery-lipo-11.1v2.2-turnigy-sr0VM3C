@@ -13,6 +13,6 @@ description: >-
 
 purchasing_ticket : 0
 value             : 6.24
-condition: working
+condition: unknown
 
-physical_condition: working
+physical_condition: broken  # charging cable not fully attached
