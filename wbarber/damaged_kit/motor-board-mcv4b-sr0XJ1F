@@ -1,17 +1,15 @@
-assetcode : 0XH1G
+assetcode : 0XJ1F
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
-development : false
+development : true
 
 description: >
-    A revision b V4 motor board (MCv4b).
+    A revision b V4 motor board (MCv4b). Red.
 
     Manufacured from motor-v4-hw.git:5f65b0142ffb1d64b8004d48a06754064a073697
 
-    Serial error
-
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 46.00     # A rough estimate of the value of the asset
-condition: broken
+condition: broken             # Draws unlimited power, suspect shorted somewhere
 
-physical_condition: unknown
+physical_condition : broken

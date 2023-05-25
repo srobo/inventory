@@ -1,4 +1,4 @@
-assetcode : 0PDF
+assetcode : 0VE8
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 development : false
@@ -8,10 +8,10 @@ description: >
 
     Manufacured from motor-v4-hw.git:5f65b0142ffb1d64b8004d48a06754064a073697
 
-    Abnormally high current draw
+    SMOKE AND FLAMES!
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 46.00     # A rough estimate of the value of the asset
-condition: broken             # Draws 100mA from power input, output 0 doesn't drive "forwards"
+condition: broken             # Draws unlimited power (maybe shorted input?)
 
-physical_condition: unknown
+physical_condition: broken
