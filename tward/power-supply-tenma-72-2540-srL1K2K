@@ -1,0 +1,12 @@
+assetcode : L1K2K
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    TENMA 72-2540 Single Output DC Bench Power Supply with RS232 and USB Interfaces - 30V, 5A Manufacturer:
+    Also includes 2 pairs of banana plug cables and crocodile clips
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 89.00      # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+physical_condition: working   # One of {unknown, working, broken}

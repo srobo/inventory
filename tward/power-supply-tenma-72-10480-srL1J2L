@@ -1,0 +1,13 @@
+assetcode : L1J2L
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    TENMA 72-10480 Single Output DC Bench Power Supply 0-30V / 0-3A
+    Also includes 2 pairs of banana plug cables and crocodile clips
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 59.00      # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+physical_condition: working   # One of {unknown, working, broken}
+

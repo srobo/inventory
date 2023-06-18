@@ -1,0 +1,12 @@
+assetcode : L1H2M
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    Brother PT-P700 label printer with power supply
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 62        # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+physical_condition: working   # One of {unknown, working, broken}
+
