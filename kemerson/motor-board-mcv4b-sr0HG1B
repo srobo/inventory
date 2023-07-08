@@ -14,3 +14,4 @@ value             : 46.00     # A rough estimate of the value of the asset
 condition: failed
 
 physical_condition: failed    # case broken one end; just about shippable if needed
+firmware_version: 4.4

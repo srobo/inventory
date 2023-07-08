@@ -19,3 +19,5 @@ condition: working
 bootloader_version : 4.02
 
 physical_condition: working   # Minor charring of the 5V pins, purely cosmetic though
+tested_on: 2023/07/08
+firmware_version: 4.3

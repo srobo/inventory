@@ -15,3 +15,4 @@ value             : 46.00     # A rough estimate of the value of the asset
 condition: working
 
 physical_condition : broken  # missing case part
+firmware_version: 4.4
