@@ -21,3 +21,5 @@ elements:
     - webcam-logitech-c500
 
 physical_condition : unknown
+notes:
+    - sorting 23: contains good batteries
