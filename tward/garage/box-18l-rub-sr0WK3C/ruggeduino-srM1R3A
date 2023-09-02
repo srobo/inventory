@@ -7,8 +7,8 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 30.00      # A rough estimate of the value of the asset
-condition: failed
+condition: working
 
 serial: "75230313833351618061"
 
-physical_condition: failed
+physical_condition: working

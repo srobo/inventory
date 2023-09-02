@@ -1,4 +1,4 @@
-assetcode : M1K3G
+assetcode : M1Q49
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -9,6 +9,6 @@ purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 30.00      # A rough estimate of the value of the asset
 condition: working
 
-serial: "752303138333517112F0"
+serial: "75230313833351615151"
 
-physical_condition: working
+physical_condition: broken
