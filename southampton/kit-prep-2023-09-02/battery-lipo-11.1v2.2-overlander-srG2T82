@@ -1,0 +1,16 @@
+assetcode : G2T82
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >-
+  11.1v 2200 mAh Lithium-Ion Polymer battery, with female XT60
+  connector.  25C constant discharge rate max.
+
+  Burst discharge rate (10sec): 45C
+  Size: 103x33x24mm
+  Balance plug: JST-XH
+  Weight: 185g
+
+purchasing_ticket : 0
+value             : 14.99
+condition         : unknown   # One of {unknown, working, broken}
