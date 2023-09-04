@@ -11,3 +11,6 @@ elements:
 physical_condition: unknown
 
 condition: unknown
+
+notes:
+    - sorting 23: Contains batteries in progress of being storage charging
