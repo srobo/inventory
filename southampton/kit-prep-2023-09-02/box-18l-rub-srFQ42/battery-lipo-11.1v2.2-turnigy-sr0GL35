@@ -13,6 +13,6 @@ description: >-
 
 purchasing_ticket : 0
 value             : 6.24
-condition: unknown
+condition: swollen
 
-physical_condition : unknown
+physical_condition : swollen

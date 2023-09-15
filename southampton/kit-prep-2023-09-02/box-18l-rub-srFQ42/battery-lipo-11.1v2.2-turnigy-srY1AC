@@ -13,5 +13,5 @@ description: >-
 
 purchasing_ticket : 0
 value             : 6.24
-condition         : working   # One of {unknown, working, broken}
-physical_condition: working
+condition         : swelling   # One of {unknown, working, broken}
+physical_condition: swelling

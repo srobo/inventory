@@ -13,6 +13,6 @@ description: >-
 
 purchasing_ticket : 1880
 value             : 6.24
-condition: working
+condition: swollen
 
-physical_condition: working
+physical_condition: swollen
