@@ -12,4 +12,4 @@ condition: working
 # The serial number of the webcam
 serial: "3941AC10"
 
-physical_condition: working
+physical_condition: broken

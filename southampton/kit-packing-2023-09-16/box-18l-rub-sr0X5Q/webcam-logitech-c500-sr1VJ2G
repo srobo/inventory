@@ -1,5 +1,5 @@
-assetcode : 1JR2W
-labelled  : false   # Does the asset have its assetcode marked on it
+assetcode : 1VJ2G
+labelled  : true
 revision  : 0
 
 description: >
@@ -8,13 +8,13 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 20.00     # A rough estimate of the value of the asset
-condition: unknown
+condition: working
 
 # The serial number of the webcam
-serial: "F9D82B80"
+serial: "6DD6E480"
 
 photos:
     - http://www.flickr.com/photos/rspanton/4979645082/
     - http://www.flickr.com/photos/rspanton/4979036615/
 
-physical_condition: unknown
+physical_condition: broken

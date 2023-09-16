@@ -1,21 +1,20 @@
-assetcode : 2MEB
-labelled  : true   # Does the asset have its assetcode marked on it
+assetcode : 1JR2W
+labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >
     A Logitech C500 1.3 Megapixel USB webcam with detachable base.
-    Previously marked as broken, but tested by hcutts.
     Does not have a base
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 20.00     # A rough estimate of the value of the asset
-condition: broken
+condition: unknown
 
+# The serial number of the webcam
+serial: "F9D82B80"
 
 photos:
     - http://www.flickr.com/photos/rspanton/4979645082/
     - http://www.flickr.com/photos/rspanton/4979036615/
 
-physical_condition: working
-
-serial: "8F5A4B80"
+physical_condition: broken
