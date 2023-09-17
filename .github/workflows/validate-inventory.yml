@@ -16,7 +16,7 @@ jobs:
 
     - name: Install SR tools
       run: |
-        pip install sr.tools
+        pip install git+https://github.com/srobo/tools.git
 
     - name: Validate inventory
       run: sr inv-validate
