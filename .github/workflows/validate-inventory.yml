@@ -15,8 +15,9 @@ jobs:
         python-version: '3.9'
 
     - name: Install SR tools
+      # Pin to the tip of main @ 2023-09-19
       run: |
-        pip install sr.tools
+        pip install git+https://github.com/srobo/tools.git@c97cea716311004129bdbf3651712ba3e970c1ff
 
     - name: Validate inventory
       run: sr inv-validate
