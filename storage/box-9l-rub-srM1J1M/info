@@ -1,8 +1,15 @@
 assetcode : M1J1M
-revision  : 0
+revision  : 1
 
 description: >
     A 9l "Really Useful Box"
+
+    As of 2024-04-14 this contains two reams of paper which are about 70% 
+    used, as well as various other stationary -- a pair of scissors, lots
+    of pens (mixed blue & black), two balls of string, a roll of bin-bags,
+    as well as some self-tapping screws and some washers.
+
+    Note: it does not have a lid.
 
 elements:
 
