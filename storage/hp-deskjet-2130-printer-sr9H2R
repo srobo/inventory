@@ -1,6 +1,6 @@
 assetcode : 9H2R
 labelled  : true   # Does the asset have its assetcode marked on it
-revision  : 0
+revision  : 1
 
 description: >
     A HP Deskjet 2130 colour printer.
