@@ -4,6 +4,12 @@ revision  : 0
 description: >
     A 9l "Really Useful Box"
 
+    As of 2024-04-15 this RUB contains the display BeagleBoards
+    and their power supplies, from when we used those (long ago),
+    as well as the much more recent Pi 4s which were used for SR2024
+    along with their power supplies and the mini-HDMI to HDMI cables
+    needed to use them.
+
 elements:
 
 physical_condition : unknown
