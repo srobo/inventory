@@ -10,10 +10,10 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 87.00     # A rough estimate of the value of the asset
-condition: broken
+condition: working
 
 bootloader_version : unknown
 
-physical_condition: unknown
+physical_condition: broken  # Cable heatshrink
 tested_on: 2023/07/08
 firmware_version: 4.4.2

@@ -14,6 +14,6 @@ condition: working
 
 bootloader_version : 4.01
 
-physical_condition : unknown
+physical_condition : working
 tested_on: 2023/07/08
 firmware_version: 4.3
