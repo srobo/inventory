@@ -8,7 +8,7 @@ description: >
 
 purchasing_ticket : 1880         # The trac ticket number of the purchase request
 value             : 10.25     # A rough estimate of the value of the asset
-condition: working
+condition: unknown
 
 
 physical_condition: working  # Cable tie almost broken
