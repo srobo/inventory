@@ -15,5 +15,5 @@ value             : 46.00     # A rough estimate of the value of the asset
 condition: working
 
 physical_condition : working
-tested_on: 2023/07/08
+tested_on: 2024/07/20
 firmware_version: 4.4
