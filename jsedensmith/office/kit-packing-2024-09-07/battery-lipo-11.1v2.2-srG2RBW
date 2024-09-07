@@ -1,0 +1,16 @@
+assetcode : G2RBW
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >-
+  11.1v 2200 mAh Lithium-Ion Polymer battery, with female deans
+  connectors.  25C constant discharge rate max.
+
+  Burst discharge rate: 30C
+  Size: 103x33x24mm
+  Balance plug: JST-XH
+  Weight: 185g
+
+purchasing_ticket : 0
+value             : 11.23
+condition         : unknown   # One of {unknown, working, broken}
