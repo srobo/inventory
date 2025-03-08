@@ -12,4 +12,5 @@ purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 13.00     # A rough estimate of the value of the asset
 condition         : working   # One of {unknown, working, broken}
 initial_values: {"UVLO": {"rising": "7.9", "falling": "6.3"}, "Vout": {"@0A": "5.16", "@1A": "5.091", "@2A": "5.011", "@3A": "4.904"}}
-physical_condition: working
+physical_condition: broken
+# Reverse polarity FET has failed

@@ -12,3 +12,4 @@ mac_address       : e4:5f:01:90:ed:e5  # MAC address of eth0 on the pi
 elements:
 serial_number: 100000000d55c070  # from /sys/firmware/devicetree/base/serial-number
 physical_condition: working
+# KCH failed
