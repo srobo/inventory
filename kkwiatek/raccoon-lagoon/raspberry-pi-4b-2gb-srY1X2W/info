@@ -10,5 +10,5 @@ condition         : working   # One of {unknown, working, broken}
 mac_address       : e4:5f:01:90:e3:5e  # MAC address of eth0 on the pi
 
 elements:
-serial_number: 10000000da2d250d  # from /sys/firmware/devicetree/base/serial-number
+serial: 10000000da2d250d  # from /sys/firmware/devicetree/base/serial-number
 physical_condition: working
