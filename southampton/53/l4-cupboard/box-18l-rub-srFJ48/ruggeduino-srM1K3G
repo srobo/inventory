@@ -1,0 +1,15 @@
+assetcode : M1K3G
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A Rugged Circuits Ruggeduino http://ruggedcircuits.com/html/ruggeduino.html
+
+purchasing_ticket : 0         # The trac ticket number of the purchase request
+value             : 30.00      # A rough estimate of the value of the asset
+condition: working
+
+serial: 752303138333517112F0
+
+physical_condition: broken
+tested_on: 2025-05-24
