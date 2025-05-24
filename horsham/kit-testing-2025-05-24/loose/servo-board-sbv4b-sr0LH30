@@ -10,7 +10,7 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 64.00     # A rough estimate of the value of the asset
-condition: working
+condition: broken
 
 bootloader_version : 4.01
 

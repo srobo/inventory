@@ -10,7 +10,7 @@ description: >
 
 purchasing_ticket : 0         # The trac ticket number of the purchase request
 value             : 46.00     # A rough estimate of the value of the asset
-condition: working
+condition: broken
 
 physical_condition: unknown
 tested_on: 2023/07/08
