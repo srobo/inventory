@@ -1,4 +1,4 @@
-assetcode : Y1Y3T
+assetcode : Y1R14
 labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -7,8 +7,9 @@ description: >
 
 value             : 43.20     # A rough estimate of the value of the asset
 condition         : working   # One of {unknown, working, broken}
-mac_address       : none      # MAC address of the pi
-elements:
+mac_address       : e4:5f:01:90:ed:39  # MAC address of eth0 on the pi
 
-serial: 1000000069b50b0f
+elements:
+serial: 10000000bcd1d188  # from /sys/firmware/devicetree/base/serial-number
+physical_condition: working
 tested_on: 2025-05-24
