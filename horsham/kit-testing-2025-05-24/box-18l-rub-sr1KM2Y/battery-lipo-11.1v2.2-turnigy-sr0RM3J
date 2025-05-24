@@ -1,4 +1,4 @@
-assetcode : 0XM38
+assetcode : 0RM3J
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -13,6 +13,6 @@ description: >-
 
 purchasing_ticket : 0
 value             : 6.24
-condition: swollen
+condition: broken
 
-physical_condition: swollen
+physical_condition: working

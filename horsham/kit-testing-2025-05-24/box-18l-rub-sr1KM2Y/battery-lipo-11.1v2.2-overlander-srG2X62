@@ -1,4 +1,4 @@
-assetcode : G2Q5A
+assetcode : G2X62
 labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -13,5 +13,5 @@ description: >-
 
 purchasing_ticket : 0
 value             : 14.99
-condition         : working   # One of {unknown, working, broken}
+condition         : broken   # One of {unknown, working, broken}
 physical_condition: working

@@ -1,17 +1,17 @@
-assetcode : G2N86
+assetcode : G2Q5A
 labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >-
   11.1v 2200 mAh Lithium-Ion Polymer battery, with female XT60
-  connector.  20C constant discharge rate max.
+  connector.  25C constant discharge rate max.
 
-  Burst discharge rate (10sec): 30C
+  Burst discharge rate (10sec): 45C
   Size: 103x33x24mm
   Balance plug: JST-XH
   Weight: 185g
 
 purchasing_ticket : 0
-value             : 6.24
-condition         : swollen   # One of {unknown, working, broken}
-physical_condition: swollen
+value             : 14.99
+condition         : broken   # One of {unknown, working, broken}
+physical_condition: working

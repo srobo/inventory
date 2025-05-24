@@ -1,4 +1,4 @@
-assetcode : M14C
+assetcode : 1KY1P
 revision  : 0
 
 description: >
@@ -10,4 +10,4 @@ elements:
 
 physical_condition: working
 
-condition: working
+condition: broken

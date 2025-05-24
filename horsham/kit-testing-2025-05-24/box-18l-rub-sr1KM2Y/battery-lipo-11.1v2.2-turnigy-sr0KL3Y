@@ -1,4 +1,4 @@
-assetcode : 0RM3J
+assetcode : 0KL3Y
 labelled  : true   # Does the asset have its assetcode marked on it
 revision  : 0
 
@@ -13,6 +13,6 @@ description: >-
 
 purchasing_ticket : 0
 value             : 6.24
-condition: working
+condition: broken
 
-physical_condition: working
+physical_condition : unknown

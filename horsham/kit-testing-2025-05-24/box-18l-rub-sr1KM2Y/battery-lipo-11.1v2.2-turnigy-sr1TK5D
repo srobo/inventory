@@ -1,5 +1,5 @@
-assetcode : 1QG5L
-labelled  : true   # Does the asset have its assetcode marked on it
+assetcode : 1TK5D
+labelled  : false   # Does the asset have its assetcode marked on it
 revision  : 0
 
 description: >-
@@ -13,6 +13,6 @@ description: >-
 
 purchasing_ticket : 1880
 value             : 6.24
-condition: working
+condition: broken
 
-physical_condition: working
+physical_condition : swollen
