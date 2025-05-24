@@ -1,0 +1,16 @@
+assetcode : N1Q48
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+    A Logitech C270 USB webcam.
+
+purchasing_ticket : 1371      # The trac ticket number of the purchase request
+value             : 20.00     # A rough estimate of the value of the asset
+condition: working
+
+# The serial number of the webcam
+serial: 564FE850
+
+physical_condition: working
+tested_on: 2025-05-24
