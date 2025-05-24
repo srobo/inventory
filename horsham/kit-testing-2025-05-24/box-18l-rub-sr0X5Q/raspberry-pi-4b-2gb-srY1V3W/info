@@ -1,0 +1,15 @@
+assetcode : Y1V3W
+labelled  : false   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >
+  Raspberry Pi 4B 2GB
+
+value             : 43.20     # A rough estimate of the value of the asset
+condition         : working   # One of {unknown, working, broken}
+mac_address       : e4:5f:01:90:ed:98  # MAC address of eth0 on the pi
+
+elements:
+serial: 100000006c1889ea  # from /sys/firmware/devicetree/base/serial-number
+physical_condition: broken
+tested_on: 2025-05-24
