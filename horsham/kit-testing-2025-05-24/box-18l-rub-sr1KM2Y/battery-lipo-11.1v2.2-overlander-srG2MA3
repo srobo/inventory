@@ -14,3 +14,4 @@ description: >-
 purchasing_ticket : 0
 value             : 14.99
 condition         : broken   # One of {unknown, working, broken}
+tested_on: 2025-05-25

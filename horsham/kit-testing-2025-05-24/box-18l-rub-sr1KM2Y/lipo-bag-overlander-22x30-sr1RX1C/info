@@ -11,3 +11,4 @@ elements:
 physical_condition: failed
 
 condition: broken
+tested_on: 2025-05-25

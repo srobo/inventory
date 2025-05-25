@@ -15,3 +15,4 @@ purchasing_ticket : 0
 value             : 6.24
 condition         : broken   # One of {unknown, working, broken}
 physical_condition: swollen
+tested_on: 2025-05-25

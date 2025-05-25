@@ -1,0 +1,19 @@
+assetcode : 0QK3N
+labelled  : true   # Does the asset have its assetcode marked on it
+revision  : 0
+
+description: >-
+  11.1v 2200 mAh Lithium-Ion Polymer battery, with female XT60
+  connector.  20C constant discharge rate max.
+
+  Burst discharge rate (10sec): 30C
+  Size: 103x33x24mm
+  Balance plug: JST-XH
+  Weight: 185g
+
+purchasing_ticket : 0
+value             : 6.24
+condition: broken
+
+physical_condition: working
+tested_on: 2025-05-25

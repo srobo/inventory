@@ -19,3 +19,4 @@ velcro-attached : false
 connector: XT60
 
 physical_condition: working
+tested_on: 2025-05-25

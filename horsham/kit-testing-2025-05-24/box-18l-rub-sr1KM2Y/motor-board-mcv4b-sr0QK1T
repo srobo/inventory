@@ -13,3 +13,4 @@ value             : 46.00     # A rough estimate of the value of the asset
 condition: broken
 
 physical_condition : unknown
+tested_on: 2025-05-25
