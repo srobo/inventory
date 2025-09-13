@@ -1,0 +1,21 @@
+assetcode : G2QCV
+revision  : 0
+
+description: >
+    An 18l Really Useful Box (http://www.reallyusefulproducts.co.uk/uk/html/onlineshop/rub/b18_0litre.php)
+
+elements:
+    - jointio-board-sr11.f-assy
+    - servo-board-sr11.f-assy
+    - motor-board-sr11.f-assy: 2
+    - power-board-sr11.f-assy
+    - battery-charger-imax-b6
+    - battery-charger-imax-b6-supply
+    - battery-lipo-11.1v2.2: 2
+    - usb-hub-akasa-connect
+    - usb-stick:
+        quantity: 1
+        alternatives:
+            - usb-stick-kingston-2gb
+            - usb-stick-kingston-8gb
+    - webcam-logitech-c500
