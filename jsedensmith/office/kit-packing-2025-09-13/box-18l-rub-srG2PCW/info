@@ -4,6 +4,8 @@ revision  : 0
 description: >
     An 18l Really Useful Box (http://www.reallyusefulproducts.co.uk/uk/html/onlineshop/rub/b18_0litre.php)
 
+    The broken kit box
+
 elements:
     - jointio-board-sr11.f-assy
     - servo-board-sr11.f-assy
